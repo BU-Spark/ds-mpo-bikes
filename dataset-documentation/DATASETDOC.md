@@ -17,11 +17,13 @@
 
 ***Dataset Information***
 
-* What data sets did you use in your project? Please provide a link to the data sets, this could be a link to a folder in your GitHub Repo, Spark\! owned Google Drive Folder for this project, or a path on the SCC, etc.  
-* Please provide a link to any data dictionaries for the datasets in this project. If one does not exist, please create a data dictionary for the datasets used in this project. **(Example of data dictionary)**   
+* What data sets did you use in your project? Please provide a link to the data sets, this could be a link to a folder in your GitHub Repo, Spark\! owned Google Drive Folder for this project, or a path on the SCC, etc.
+  * https://drive.google.com/drive/folders/14gm79BXKytE_HX5z8EM5RL6AFMYhvOq1?usp=drive_link
+* Please provide a link to any data dictionaries for the datasets in this project. If one does not exist, please create a data dictionary for the datasets used in this project. **(Example of data dictionary)**
+  * Milestone 1 data dictionary: https://docs.google.com/document/d/1FzdtsCBZPhOqdaO4NSjKzigySJM6dWPkbg1xh9vocUM/edit?usp=sharing
 * What keywords or tags would you attach to the data set?  
-  * Domain(s) of Application: Computer Vision, Object Detection, OCR, Image Classification, Image Segmentation, Facial Recognition, NLP, Topic Modeling, Sentiment Analysis, Named Entity Recognition, Text Classification, Summarization, Anomaly Detection, Other   
-  * Sustainability, Health, Civic Tech, Voting, Housing, Policing, Budget, Education, Transportation, etc. 
+  * Domains of Application: Topic Modeling, Summarization, Anomaly Detection, Geospatial Analysis.   
+  * Sustainability, Civic Tech, Transportation. 
 
 *The following questions pertain to the datasets you used in your project.*   
 *Motivation* 
