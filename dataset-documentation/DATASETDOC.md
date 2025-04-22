@@ -1,12 +1,19 @@
 ***Project Information*** 
 
-* What is the project name?  
-* What is the link to your project’s GitHub repository?   
-* What is the link to your project’s Google Drive folder? \*\**This should be a Spark\! Owned Google Drive folder \- please contact your PM if you do not have access\*\**  
-* In your own words, what is this project about? What is the goal of this project?   
-* Who is the client for the project?  
-* Who are the client contacts for the project?  
+* What is the project name?
+  * MPO: Understanding Blue Bikes And MBTA Use  
+* What is the link to your project’s GitHub repository?
+  * https://github.com/BU-Spark/ds-mpo-bikes/tree/main 
+* What is the link to your project’s Google Drive folder? \*\**This should be a Spark\! Owned Google Drive folder \- please contact your PM if you do not have access\*\**
+  * https://drive.google.com/drive/folders/1XoIRu1qK6h9qQ_hGPmZ32uvHzm9SKJb1?usp=sharing 
+* In your own words, what is this project about? What is the goal of this project?
+  *  This project investigates how Bluebikes and the MBTA transit system interact, aiming to understand when and where combining the two modes is more effective than using just one. By analyzing trip data, the goal is to identify patterns of first/last-mile connections and mode substitution to support a more integrated and efficient transportation network in the Boston region.
+* Who is the client for the project?
+  * Boston Region Metropolitan Planning Organization (MPO)
+* Who are the client contacts for the project?
+  * Tanner Bonner tbonner@ctps.org, Rosemary McMarron rmccarron@ctps.org 
 * What class was this project part of?
+  * DS539
 
 ***Dataset Information***
 
