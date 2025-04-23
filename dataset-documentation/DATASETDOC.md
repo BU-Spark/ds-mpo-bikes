@@ -26,9 +26,6 @@
   * Sustainability, Civic Tech, Transportation. 
 
 *The following questions pertain to the datasets you used in your project.*   
-*Motivation* 
-
-* For what purpose was the dataset created? Was there a specific task in mind? Was there a specific gap that needed to be filled? Please provide a description. 
 
 *Composition*
 
@@ -92,11 +89,11 @@
 
 *Uses* 
 
-* What tasks has the dataset been used for so far? Please provide a description.   
+* What tasks has the dataset been used for so far? Please provide a description.
+  * Bluebike Trip and Bluebike network data are used to analyze the the travel pattern via Bluebikes, the MBTA GTFS datasets are used to analyze the travel pattern by all the public transits.
 * What (other) tasks could the dataset be used for?
-  * All the dataset together are used in r5r as a metric to calculate the travel time for different travel modes.
+  * With the combination of all the trip datasets, open street map and elevation files, we use r5r as the metric to calculate the travel time for different travel modes.
 * Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?   
-* Are there tasks for which the dataset should not be used? If so, please provide a description.
 
 *Distribution*
 
