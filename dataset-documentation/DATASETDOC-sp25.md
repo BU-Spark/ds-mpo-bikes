@@ -4,7 +4,7 @@
   * MPO: Understanding Blue Bikes And MBTA Use  
 * What is the link to your project’s GitHub repository?
   * https://github.com/BU-Spark/ds-mpo-bikes/tree/main 
-* What is the link to your project’s Google Drive folder? \*\**This should be a Spark\! Owned Google Drive folder \- please contact your PM if you do not have access\*\**
+* What is the link to your project’s Google Drive folder? 
   * https://drive.google.com/drive/folders/1XoIRu1qK6h9qQ_hGPmZ32uvHzm9SKJb1?usp=sharing 
 * In your own words, what is this project about? What is the goal of this project?
   *  This project investigates how Bluebikes and the MBTA transit system interact, aiming to understand when and where combining the two modes is more effective than using just one. By analyzing trip data, the goal is to identify patterns of first/last-mile connections and mode substitution to support a more integrated and efficient transportation network in the Boston region.
@@ -72,9 +72,12 @@
   
 *Collection Process*
 
-* What mechanisms or procedures were used to collect the data (e.g., API, artificially generated, crowdsourced \- paid, crowdsourced \- volunteer, scraped or crawled, survey, forms, or polls, taken from other existing datasets, provided by the client, etc)? How were these mechanisms or procedures validated?  
-* If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?  
-* Over what timeframe was the data collected? Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)? If not, please describe the timeframe in which the data associated with the instances was created. 
+* What mechanisms or procedures were used to collect the data (e.g., API, artificially generated, crowdsourced \- paid, crowdsourced \- volunteer, scraped or crawled, survey, forms, or polls, taken from other existing datasets, provided by the client, etc)? How were these mechanisms or procedures validated?
+  * The dataset was given to us from the client directly. 
+* If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?
+  * The datasets are samples from larger sets. The client give it to us on purpose, since the dataset represents the peak of Bluebikes and MBTA uses in a year. Furthermore, we have sampled the dataset by ourselves for travel time calculation for different trip modes in r5r.
+* Over what timeframe was the data collected? Does this timeframe match the creation timeframe of the data associated with the instances (e.g., recent crawl of old news articles)? If not, please describe the timeframe in which the data associated with the instances was created.
+  * The Bluebikes trip dataset contained every trip record from April to November in 2024. The MBTA GTFS datasets contained the MBTA schedule from April and July in 2024.
 
 *Preprocessing/cleaning/labeling* 
 
@@ -93,17 +96,16 @@
   * Bluebike Trip and Bluebike network data are used to analyze the the travel pattern via Bluebikes, the MBTA GTFS datasets are used to analyze the travel pattern by all the public transits.
 * What (other) tasks could the dataset be used for?
   * With the combination of all the trip datasets, open street map and elevation files, we use r5r as the metric to calculate the travel time for different travel modes.
-* Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?   
+* Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
+  * Machine learning can be used in further study on the final travel time analysis dataset.
 
 *Distribution*
 
 * Based on discussions with the client, what access type should this dataset be given (eg., Internal (Restricted), External Open Access, Other)?
+  * The dataset is from the client, so only those working on the dataset should have access to it.
 
 *Maintenance* 
 
-* If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so? If so, please provide a description. 
-
-*Other*
-
-* Is there any other additional information that you would like to provide that has not already been covered in other sections?
+* If others want to extend/augment/build on/contribute to the dataset, is there a mechanism for them to do so? If so, please provide a description.
+  * Reading the dataset documentation is the best way for others to continue build on the project. The documentation includes all the description of every dataset and explaination of our data cleaning process.
 
