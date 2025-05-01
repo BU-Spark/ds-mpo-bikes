@@ -1,6 +1,6 @@
 # MPO-Bluebikes
 
-This repository contains a software pipeline to analyze the relationship between Bluebikes trips and MBTA transit accessibility in Metro Boston. The project is part of a collaborative effort with the Boston Region Metropolitan Planning Organization (MPO) to support data-driven planning for multimodal transportation.
+This repository contains code and analysis to explore how Bluebikes trips connect with MBTA transit across Metro Boston. It includes data cleaning, trip classification, travel time comparisons across different transportation modes, and visualizations that highlight where multimodal trips work well together. The project supports the Boston Region MPO in understanding and improving multimodal travel options in the region.
 
 There are currently three core tasks this project addresses:
 1. Cleaning and preparing Bluebikes trip data and MBTA GTFS access points for analysis
@@ -10,7 +10,7 @@ There are currently three core tasks this project addresses:
 
 ## Getting Started
 
-The main workflow begins with `MPOCode`, which explores and prepares the Bluebikes network data.  
+The main workflow begins with `./MPOCode`, which explores and prepares the Bluebikes network data.  
 Subsequent steps involve:
 
 - `blue-bike-trips-cleaning-eda.ipynb`: Cleans and structures Bluebikes network data  
@@ -45,3 +45,10 @@ The main challenges in this project involved working with large and complex data
 4. Apply sampling strategies to reduce computational load while preserving representative travel patterns.
 5. Analyze and compare the efficiency of different travel modes across time and geography.
 6. Build interactive visualizations to highlight when and where multimodal travel is more efficient.
+
+## Other Folder
+
+./dataset-documentation
+
+This folder contains documentation related to the datasets used in the project.  
+Currently, it includes `DATASETDOC-sp25.md`, a README file that provides notes, snapshots, and metadata for the datasets used in this version.
