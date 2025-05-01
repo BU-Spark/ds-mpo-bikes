@@ -39,9 +39,9 @@ The main challenges in this project involved working with large and complex data
 
 ## Project Checklist
 
-	1.	Clean and preprocess Bluebikes trip data and MBTA GTFS stop data.
-	2.	Classify trips into First Mile, Last Mile, Competitive, and Transit Agnostic categories based on proximity to MBTA access points.
-	3.	Use the R5R routing engine to simulate travel times for walking, biking, transit-only, and multimodal combinations.
-	4.	Apply sampling strategies to reduce computational load while preserving representative travel patterns.
-	5.	Analyze and compare the efficiency of different travel modes across time and geography.
-	6.	Build interactive visualizations to highlight when and where multimodal travel is more efficient.
+1. Clean and preprocess Bluebikes trip data and MBTA GTFS stop data.
+2. Classify trips into First Mile, Last Mile, Competitive, and Transit Agnostic categories based on proximity to MBTA access points.
+3. Use the R5R routing engine to simulate travel times for walking, biking, transit-only, and multimodal combinations.
+4. Apply sampling strategies to reduce computational load while preserving representative travel patterns.
+5. Analyze and compare the efficiency of different travel modes across time and geography.
+6. Build interactive visualizations to highlight when and where multimodal travel is more efficient.
