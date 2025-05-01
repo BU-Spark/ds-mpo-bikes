@@ -76,7 +76,39 @@ Travel Time Dataset
 | Labeled classes | 3 routing types: bike, walk + transit, multimodal (walk + bike + transit) |
 | Number of labels  | 33 for walk+transit, 15 for multimodal |
 
-  
+Cleaned Bluebike Trips Data
+| Size of dataset |  ~1.25 GB (estimated for 3.7 million rows x 23 columns) |
+| :---- | :---- |
+| Number of instances | 3,701,483 rows |
+| Number of fields  | 23 columns |
+| Labeled classes | first_mile, last_mile, comp_supp, transit_agnostic |
+| Number of labels  | 4 |
+
+Cleaned Bluebike Network Dataset
+| Size of dataset | ~38 KB (small station reference file in CSV format) |
+| :---- | :---- |
+| Number of instances | 485 rows (after removing placeholder or imcomplete entries) |
+| Number of fields  | 8 columns |
+| Labeled classes | N/A |
+| Number of labels  | N/A |
+
+MBTA Access Point Summary Dataset
+| Size of dataset | ~95 KB (CSV summary of change types) |
+| :---- | :---- |
+| Number of instances | 7,848 total rows (retained + added + removed) |
+| Number of fields  | 8~10 columns (depending on export schema, like stop_id, geometry, change_type) |
+| Labeled classes | retained, added, removed |
+| Number of labels  | 3 |
+
+Cleaned MBTA Access Point (GTFS stop.txt, July 2024)
+| Size of dataset |  ~250 KB (GeoJSON + CSV after filtering and deduplication) |
+| :---- | :---- |
+| Number of instances | 7,751 rows (final access points within MPO boundary) |
+| Number of fields  | 20+ columns (from GTFS+ derived fields like geometry, loc_id) |
+| Labeled classes | N/A |
+| Number of labels  | N/A |
+
+ 
 *Collection Process*
 
 * What mechanisms or procedures were used to collect the data (e.g., API, artificially generated, crowdsourced \- paid, crowdsourced \- volunteer, scraped or crawled, survey, forms, or polls, taken from other existing datasets, provided by the client, etc)? How were these mechanisms or procedures validated?
