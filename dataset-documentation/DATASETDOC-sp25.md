@@ -60,14 +60,21 @@
   * No. All content is infrastructure- and trip-based; there is no user-generated or textual data.
 * Dataset Snapshot, if there are multiple datasets please include multiple tables for each dataset. 
 
-
-| Size of dataset |  |
+OD Compatible Dataset
+| Size of dataset | ~237.6 MB (after filtering and formatting) |
 | :---- | :---- |
-| Number of instances |  |
-| Number of fields  |  |
-| Labeled classes |  |
-| Number of labels  |  |
+| Number of instances | 3,701,483 rows (each representing one trip) |
+| Number of fields  | 8 fields |
+| Labeled classes | N/A |
+| Number of labels  | N/A |
 
+Travel Time Dataset
+| Size of dataset | 0.52 MB |
+| :---- | :---- |
+| Number of instances | 2,400 rows (each representing a unique OD pair simulation) |
+| Number of fields  | 14 columns |
+| Labeled classes | 3 routing types: bike, walk + transit, multimodal (walk + bike + transit) |
+| Number of labels  | 33 for walk+transit, 15 for multimodal |
 
   
 *Collection Process*
