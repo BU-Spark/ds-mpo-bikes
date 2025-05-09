@@ -168,3 +168,8 @@ $RECYCLE.BIN/
 
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
+
+MPOCode/bluebike_od_input.csv
+MPOCode/network.dat
+MPOCode/bluebikehubpatterns.csv
+MPOCode/cleaned_bluebiketrips.csv

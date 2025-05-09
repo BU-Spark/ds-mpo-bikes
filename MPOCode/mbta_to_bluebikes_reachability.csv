@@ -1,0 +1,2107 @@
+stop_id,stop_name,location_type,madina_bb_station_id,Number,NAME
+2263,Massachusetts Ave @ Linwood St,0,1,L32002,Linwood St at Minuteman Bikeway
+2279,Massachusetts Ave @ Foster St,0,1,L32002,Linwood St at Minuteman Bikeway
+2259,Massachusetts Ave @ Peg Spengler Way,0,0,L32001,Railroad Lot and Minuteman Bikeway
+2283,Massachusetts Ave @ Mystic St,0,0,L32001,Railroad Lot and Minuteman Bikeway
+2277,Massachusetts Ave opp Lake St,0,2,L32003,Mass Ave at Grafton St
+2278,Massachusetts Ave @ Harlow St,0,2,L32003,Mass Ave at Grafton St
+2264,260 Massachusetts Ave,0,2,L32003,Mass Ave at Grafton St
+12639,Broadway opp Cleveland St,0,3,L32004,Broadway at Grafton St
+12640,Broadway @ N Union St,0,3,L32004,Broadway at Grafton St
+12641,Broadway opp Harlow St,0,3,L32004,Broadway at Grafton St
+12650,Broadway @ Harlow St,0,3,L32004,Broadway at Grafton St
+12651,Broadway @ Oxford St,0,3,L32004,Broadway at Grafton St
+2282,Massachusetts Ave @ Medford St,0,4,L32006,Mass Ave at Broadway
+2260,Massachusetts Ave @ Broadway,0,4,L32006,Mass Ave at Broadway
+2261,Massachusetts Ave @ Avon Pl,0,4,L32006,Mass Ave at Broadway
+12644,Broadway @ Franklin St,0,4,L32006,Mass Ave at Broadway
+12645,Broadway @ Massachusetts Ave,0,4,L32006,Mass Ave at Broadway
+2281,Massachusetts Ave @ Franklin St,0,4,L32006,Mass Ave at Broadway
+1195,Cambridge St @ Emery Rd,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+1196,N Beacon St @ Cambridge St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+1110,N Beacon St @ Cambridge St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+1111,Cambridge St opp Hano St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+925,Cambridge St @ Barrows St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+926,Brighton Ave @ Cambridge St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+966,Cambridge St @ N Beacon St,0,6,A32001,Union Square - Brighton Ave at Cambridge St
+933,Commonwealth Ave @ Babcock St,0,7,A32002,Commonwealth Ave at Agganis Way
+934,Commonwealth Ave @ Pleasant St,0,7,A32002,Commonwealth Ave at Agganis Way
+170136,Babcock Street,0,7,A32002,Commonwealth Ave at Agganis Way
+170137,Babcock Street,0,7,A32002,Commonwealth Ave at Agganis Way
+door-babck-ebagganis,"Babcock Street - Harry Agganis Way, Pleasant St",2,7,A32002,Commonwealth Ave at Agganis Way
+door-babck-ebbabcock,Babcock Street - Babcock St,2,7,A32002,Commonwealth Ave at Agganis Way
+door-babck-wbagganis,"Babcock Street - Harry Agganis Way, Pleasant St",2,7,A32002,Commonwealth Ave at Agganis Way
+door-babck-wbbabcock,Babcock Street - Babcock St,2,7,A32002,Commonwealth Ave at Agganis Way
+958,Commonwealth Ave @ Babcock St,0,7,A32002,Commonwealth Ave at Agganis Way
+937,Commonwealth Ave @ Carlton St,0,8,A32003,B.U. Central - 725 Comm. Ave.
+1810,Commonwealth Ave @ University Rd,0,8,A32003,B.U. Central - 725 Comm. Ave.
+938,Commonwealth Ave @ St Mary's St,0,8,A32003,B.U. Central - 725 Comm. Ave.
+70144,Boston University Central,0,8,A32003,B.U. Central - 725 Comm. Ave.
+70145,Boston University Central,0,8,A32003,B.U. Central - 725 Comm. Ave.
+953,Commonwealth Ave @ St Mary's St,0,8,A32003,B.U. Central - 725 Comm. Ave.
+954,Commonwealth Ave @ University Rd,0,8,A32003,B.U. Central - 725 Comm. Ave.
+1804,Brookline Ave @ Longwood Ave,0,9,A32004,Longwood Ave at Binney St
+1779,Longwood Ave @ Brookline Ave,0,9,A32004,Longwood Ave at Binney St
+1780,Longwood Ave @ Blackfan St,0,9,A32004,Longwood Ave at Binney St
+1521,Brookline Ave @ Longwood Ave,0,9,A32004,Longwood Ave at Binney St
+1559,Brookline Ave @ Deaconess Rd,0,9,A32004,Longwood Ave at Binney St
+11803,Longwood Ave @ Binney St,0,9,A32004,Longwood Ave at Binney St
+1046,Western Ave @ Litchfield St,0,10,A32005,Brighton Mills - 370 Western Ave
+1074,367 Western Ave opp Brighton Mills Mall,0,10,A32005,Brighton Mills - 370 Western Ave
+1075,Western Ave opp Litchfield St,0,10,A32005,Brighton Mills - 370 Western Ave
+1053,Western Ave @ Genzyme,0,11,A32006,Soldiers Field Park - 111 Western Ave
+1067,Western Ave opp Genzyme,0,11,A32006,Soldiers Field Park - 111 Western Ave
+1808,Park Dr @ Beacon St,0,12,A32008,Park Dr at Buswell St
+1809,Park Dr @ Mountfort St,0,12,A32008,Park Dr at Buswell St
+9434,Park Dr @ Fenway Sta,0,12,A32008,Park Dr at Buswell St
+1775,Park Dr @ Beacon St,0,12,A32008,Park Dr at Buswell St
+70186,Fenway,0,12,A32008,Park Dr at Buswell St
+door-fenwy-parkdr,Fenway - Park Dr (Stairs),2,12,A32008,Park Dr at Buswell St
+1234,Tremont St @ Aguadilla St,0,13,A32009,South End Library - Tremont St at W Newton St
+1248,Tremont St @ Pembroke St,0,13,A32009,South End Library - Tremont St at W Newton St
+1250,Tremont St @ Concord Sq,0,13,A32009,South End Library - Tremont St at W Newton St
+1232,Tremont St @ Worcester St,0,13,A32009,South End Library - Tremont St at W Newton St
+6538,Essex St @ Atlantic Ave,0,14,A32010,South Station - 700 Atlantic Ave
+6550,Lincoln St @ Essex St,0,14,A32010,South Station - 700 Atlantic Ave
+6564,Summer St @ South Station - Red Line entrance,0,14,A32010,South Station - 700 Atlantic Ave
+892,Summer St @ Atlantic Ave,0,14,A32010,South Station - 700 Atlantic Ave
+70079,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+70080,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+74611,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+74617,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-01,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-02,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-04,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-06,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-08,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+9070079,South Station - Summer St @ Surface Rd,0,14,A32010,South Station - 700 Atlantic Ave
+NEC-2287-10,South Station,0,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-atlantic,South Station - Atlantic Ave,2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-bus,South Station - South Station Bus Terminal,2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-dewey,"South Station - Dewey Sq (Summer St, Atlantic Ave)",2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-finctr,South Station - Financial Center,2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-main,"South Station - Main Entry, Dewey Square",2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-outmain,"South Station - Summer St, Atlantic Ave, Commuter Rail",2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-reserve,"South Station - Atlantic Ave, Summer St",2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-summer,South Station - Summer St,2,14,A32010,South Station - 700 Atlantic Ave
+door-sstat-usps,South Station - USPS Post Office,2,14,A32010,South Station - 700 Atlantic Ave
+1052,130 Western Ave,0,15,A32011,Innovation Lab - 125 Western Ave at Batten Way
+1068,125 Western Ave,0,15,A32011,Innovation Lab - 125 Western Ave at Batten Way
+931,Brighton Ave @ Commonwealth Ave,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+70134,Packard's Corner,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+70135,Packard's Corner,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+door-babck-wbbabcock,Babcock Street - Babcock St,2,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+958,Commonwealth Ave @ Babcock St,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+959,1079 Commonwealth Ave,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+960,Brighton Ave @ Malvern St,0,16,A32012,Packard's Corner - Commonwealth Ave at Brighton Ave
+224,Atlantic Ave @ State St-Marriott Hotel,0,17,A32013,Surface Rd at India St
+236,Atlantic Ave @ Central St,0,17,A32013,Surface Rd at India St
+30233,Atlantic Ave @ Milk St,0,17,A32013,Surface Rd at India St
+9070043,Aquarium - Surface Rd @ State St,0,17,A32013,Surface Rd at India St
+70043,Aquarium,0,17,A32013,Surface Rd at India St
+door-aqucl-atlantic,Aquarium - Waterfront and New England Aquarium,2,17,A32013,Surface Rd at India St
+door-aqucl-mcknorth,Aquarium - State St (North),2,17,A32013,Surface Rd at India St
+door-aqucl-mcksouth,Aquarium - State St (South),2,17,A32013,Surface Rd at India St
+2553,N Harvard St @ Western Ave,0,18,A32019,175 N Harvard St
+1070,Western Ave @ N Harvard St,0,18,A32019,175 N Harvard St
+1051,Western Ave @ Travis St,0,18,A32019,175 N Harvard St
+2561,N Harvard St @ Western Ave,0,18,A32019,175 N Harvard St
+2824,Main St @ Dunstable St,0,19,A32022,Edwards Playground - Main St at Eden St
+2838,Main St @ Walker St,0,19,A32022,Edwards Playground - Main St at Eden St
+2839,Main St @ Oak St,0,19,A32022,Edwards Playground - Main St at Eden St
+2823,Main St @ Middlesex St,0,19,A32022,Edwards Playground - Main St at Eden St
+70028,Community College,0,20,A32023,Bunker Hill Community College
+door-ccmnl-main,"Community College - Community College, Rutherford Ave",2,20,A32023,Bunker Hill Community College
+12891,Pearl St @ High St,0,21,A32026,Purchase St at Pearl St
+221,Atlantic Ave @ Congress St,0,21,A32026,Purchase St at Pearl St
+2116,Purchase St @ Pearl St,0,21,A32026,Purchase St at Pearl St
+222,Atlantic Ave @ Seaport Blvd.,0,21,A32026,Purchase St at Pearl St
+5874,Bennington St @ Moore St,0,22,A32028,Bennington St at Byron St
+5875,Bennington St @ Byron St,0,22,A32028,Bennington St at Byron St
+5842,Bennington St @ Byron St,0,22,A32028,Bennington St at Byron St
+5843,Bennington St @ Moore St,0,22,A32028,Bennington St at Byron St
+5740,Maverick,0,23,A32030,Maverick Square - Lewis Mall
+57400,Maverick,0,23,A32030,Maverick Square - Lewis Mall
+70045,Maverick,0,23,A32030,Maverick Square - Lewis Mall
+door-mvbcl-lewis,Maverick - Lewis Mall,2,23,A32030,Maverick Square - Lewis Mall
+door-mvbcl-square,"Maverick - Sumner St, Maverick Square",2,23,A32030,Maverick Square - Lewis Mall
+15857,Sumner St @ Orleans St,0,23,A32030,Maverick Square - Lewis Mall
+5740,Maverick,0,24,A32031,East Boston Neighborhood Health Center - 20 Maverick Square
+57400,Maverick,0,24,A32031,East Boston Neighborhood Health Center - 20 Maverick Square
+70045,Maverick,0,24,A32031,East Boston Neighborhood Health Center - 20 Maverick Square
+door-mvbcl-lewis,Maverick - Lewis Mall,2,24,A32031,East Boston Neighborhood Health Center - 20 Maverick Square
+door-mvbcl-square,"Maverick - Sumner St, Maverick Square",2,24,A32031,East Boston Neighborhood Health Center - 20 Maverick Square
+5882,Boardman St @ Saratoga St,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+15880,Orient Heights,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+5879,Orient Heights,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+5880,Orient Heights,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+70051,Orient Heights,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+70052,Orient Heights,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+door-orhte-benning,Orient Heights - Bennington St,2,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+door-orhte-saratoga,"Orient Heights - Saratoga St, Barnes Ave",2,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+5881,Bennington St @ Antrim St,0,26,A32035,Orient Heights T Stop - Bennington St at Saratoga St
+5841,Bennington St @ Westbrook St,0,27,A32039,Bennington St at Constitution Beach
+5839,Bennington St @ Trident St,0,27,A32039,Bennington St at Constitution Beach
+5877,Bennington St @ Westbrook St,0,27,A32039,Bennington St at Constitution Beach
+5878,Bennington St @ Trident St,0,27,A32039,Bennington St at Constitution Beach
+2555,N Harvard St @ Coolidge Rd,0,28,A32040,Honan Library
+2556,N Harvard St @ Hooker St,0,28,A32040,Honan Library
+2559,N Harvard St @ Oxford St,0,28,A32040,Honan Library
+2560,N Harvard St @ Kingsley St,0,28,A32040,Honan Library
+5743,Meridian St @ Saratoga St,0,29,A32041,Central Square East Boston
+5854,Bennington St @ Porter St,0,29,A32041,Central Square East Boston
+5867,Bennington St @ Porter St,0,29,A32041,Central Square East Boston
+5902,Lexington St @ Meridian St,0,29,A32041,Central Square East Boston
+5734,Meridian St @ Lexington St,0,29,A32041,Central Square East Boston
+5736,Meridian St @ Liverpool St,0,29,A32041,Central Square East Boston
+NEC-2287-01,South Station,0,30,A32042,Surface Rd at Summer St
+NEC-2287-02,South Station,0,30,A32042,Surface Rd at Summer St
+9070079,South Station - Summer St @ Surface Rd,0,30,A32042,Surface Rd at Summer St
+6564,Summer St @ South Station - Red Line entrance,0,30,A32042,Surface Rd at Summer St
+door-sstat-atlantic,South Station - Atlantic Ave,2,30,A32042,Surface Rd at Summer St
+door-sstat-dewey,"South Station - Dewey Sq (Summer St, Atlantic Ave)",2,30,A32042,Surface Rd at Summer St
+door-sstat-finctr,South Station - Financial Center,2,30,A32042,Surface Rd at Summer St
+door-sstat-main,"South Station - Main Entry, Dewey Square",2,30,A32042,Surface Rd at Summer St
+door-sstat-outmain,"South Station - Summer St, Atlantic Ave, Commuter Rail",2,30,A32042,Surface Rd at Summer St
+door-sstat-reserve,"South Station - Atlantic Ave, Summer St",2,30,A32042,Surface Rd at Summer St
+6550,Lincoln St @ Essex St,0,30,A32042,Surface Rd at Summer St
+892,Summer St @ Atlantic Ave,0,30,A32042,Surface Rd at Summer St
+6538,Essex St @ Atlantic Ave,0,30,A32042,Surface Rd at Summer St
+70079,South Station,0,30,A32042,Surface Rd at Summer St
+70080,South Station,0,30,A32042,Surface Rd at Summer St
+74611,South Station,0,30,A32042,Surface Rd at Summer St
+74617,South Station,0,30,A32042,Surface Rd at Summer St
+NEC-2287,South Station,0,30,A32042,Surface Rd at Summer St
+5864,Maverick St @ Cottage St,0,31,A32044,Maverick St at Massport Path
+5863,Maverick St @ Lamson St,0,31,A32044,Maverick St at Massport Path
+11070,Guest St @ Hichborn St,0,32,A32045,Boston Landing
+11071,Arthur St @ Hichborn St - Stop & Shop,0,32,A32045,Boston Landing
+WML-0035,Boston Landing,0,32,A32045,Boston Landing
+11971,Arthur St @ Hichborn St - Stop & Shop,0,32,A32045,Boston Landing
+11972,Guest St opp Hichborn St,0,32,A32045,Boston Landing
+5861,Jeffries St @ Maverick St,0,34,A32050,Porzio Park
+5848,Bennington St @ Neptune Rd,0,35,A32051,Day Sq
+5849,Bennington St @ Chelsea St,0,35,A32051,Day Sq
+5850,Bennington St @ Prescott St,0,35,A32051,Day Sq
+5664,Bennington St @ Bremen St,0,35,A32051,Day Sq
+56641,E Eagle St @ Chelsea St,0,35,A32051,Day Sq
+5665,Bennington St @ Neptune Rd,0,35,A32051,Day Sq
+5871,Bennington St @ Prescott St,0,35,A32051,Day Sq
+2564,N Harvard St opp Harvard Stadium Gate 2,0,36,A32052,Harvard Stadium: N. Harvard St at Soldiers Field Rd
+2551,N Harvard St @ Gate 2 Harvard Stadium,0,36,A32052,Harvard Stadium: N. Harvard St at Soldiers Field Rd
+door-north-tdgarden,North Station - TD Garden passageway (Elevator),2,37,A32053,Valenti Way at Haverhill St
+door-north-valenti,North Station - Valenti Way,2,37,A32053,Valenti Way at Haverhill St
+70026,North Station,0,37,A32053,Valenti Way at Haverhill St
+114,Causeway St @ North Station,0,37,A32053,Valenti Way at Haverhill St
+118,Causeway St @ Medford St,0,37,A32053,Valenti Way at Haverhill St
+2829,N Washington St @ Medford St,0,37,A32053,Valenti Way at Haverhill St
+door-north-causewaye,North Station - Causeway St (Elevator),2,37,A32053,Valenti Way at Haverhill St
+door-north-causeways,"North Station - Causeway St, Haverhill St",2,37,A32053,Valenti Way at Haverhill St
+2832,N Washington St @ Cooper St,0,37,A32053,Valenti Way at Haverhill St
+1255,Tremont St @ Columbus Ave,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+1227,Tremont St @ Melnea Cass Blvd,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+17862,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+17863,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+NEC-2265,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+NEC-2265-01,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+NEC-2265-03,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+door-rugg-buses,"Ruggles - Columbus Ave, Buses",2,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+door-rugg-columbus,"Ruggles - Columbus Ave, Tremont St",2,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+11802,Ave Louis Pasteur @ Longwood Ave,0,39,B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave
+11780,Ave Louis Pasteur @ Longwood Ave,0,39,B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave
+1780,Longwood Ave @ Blackfan St,0,39,B32003,HMS/HSPH - Avenue Louis Pasteur at Longwood Ave
+Boat-Long,Long Wharf (North),0,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+Boat-Long-South,Long Wharf (South),0,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+224,Atlantic Ave @ State St-Marriott Hotel,0,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+225,Atlantic Ave @ Atlantic Ave,0,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+70043,Aquarium,0,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+door-aqucl-atlantic,Aquarium - Waterfront and New England Aquarium,2,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+door-aqucl-atlanticelev,Aquarium - Waterfront and New England Aquarium,2,40,B32004,Aquarium T Stop - 200 Atlantic Ave
+91,Massachusetts Ave @ Clearway St,0,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+80,Massachusetts Ave opp Christian Science Ctr,0,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+70241,Symphony,0,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-ebchurch,"Symphony - Massachusetts Ave, First Church of Christ",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-ebsymphony,"Symphony - Massachusetts Ave, Symphony Hall",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-falmouth,"Symphony - First Church, Falmouth St",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-hunte,"Symphony - Massachusetts Ave, Huntington Ave (East)",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-huntw,"Symphony - Massachusetts Ave, Huntington Ave (West)",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+door-symcl-westland,"Symphony - Westland Ave, Symphony Hall",2,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+82,Massachusetts Ave @ Huntington Ave,0,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+89,Massachusetts Ave @ St Botolph St,0,41,B32005,Christian Science Plaza - Massachusetts Ave at Westland Ave
+11781,Ave Louis Pasteur @ The Fenway,0,42,B32006,Colleges of the Fenway - Fenway at Avenue Louis Pasteur
+11799,Ave Louis Pasteur @ The Fenway,0,42,B32006,Colleges of the Fenway - Fenway at Avenue Louis Pasteur
+204,Congress St opp North St,0,43,B32008,Boston City Hall - 28 State St
+door-gover-main,Government Center - City Hall Plaza,2,43,B32008,Boston City Hall - 28 State St
+9370022,State - Devonshire St @ State St,0,43,B32008,Boston City Hall - 28 State St
+11891,Pearl St @ Congress St,0,43,B32008,Boston City Hall - 28 State St
+65,State St @ Washington Mall - State St Sta,0,43,B32008,Boston City Hall - 28 State St
+70022,State,0,43,B32008,Boston City Hall - 28 State St
+door-state-cityhall,State - City Hall,2,43,B32008,Boston City Hall - 28 State St
+door-state-congress,State - Congress St (North),2,43,B32008,Boston City Hall - 28 State St
+door-state-exchange,State - Congress St (Exchange Place),2,43,B32008,Boston City Hall - 28 State St
+door-state-meeting,"State - Washington St, Milk St",2,43,B32008,Boston City Hall - 28 State St
+door-state-state,"State - Old State House, State St",2,43,B32008,Boston City Hall - 28 State St
+190,Congress St @ State St,0,43,B32008,Boston City Hall - 28 State St
+door-state-water,"State - Devonshire St, Water St",2,43,B32008,Boston City Hall - 28 State St
+191,Congress St @ North St,0,43,B32008,Boston City Hall - 28 State St
+4510,Cambridge St @ Government Ctr Sta,0,43,B32008,Boston City Hall - 28 State St
+70039,Government Center,0,43,B32008,Boston City Hall - 28 State St
+65471,Devonshire St @ Water St,0,43,B32008,Boston City Hall - 28 State St
+1564,Brookline Ave @ Newbury St,0,44,B32010,Kenmore Square
+door-kencl-commonwealth,"Kenmore - Fenway Park, Commonwealth Ave",2,44,B32010,Kenmore Square
+941,Commonwealth Ave @ Blandford St,0,44,B32010,Kenmore Square
+8993,Brookline Ave opp Newbury St,0,44,B32010,Kenmore Square
+70148,Blandford Street,0,44,B32010,Kenmore Square
+70150,Kenmore,0,44,B32010,Kenmore Square
+899,Kenmore,0,44,B32010,Kenmore Square
+door-kencl-beacon,"Kenmore - Boston University, Beacon St",2,44,B32010,Kenmore Square
+door-kencl-busway,"Kenmore - Busway, Commonwealth Ave",2,44,B32010,Kenmore Square
+1317,Huntington Ave opp Fenwood Rd,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+1319,Tremont St opp Wigglesworth St,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+1362,Tremont St @ Huntington Ave,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+1363,Huntington Ave @ Fenwood Rd,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+70249,Brigham Circle,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+70250,Brigham Circle,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+70251,Fenwood Road,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+92391,677 Huntington Ave,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+70252,Fenwood Road,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+21317,Huntington Ave @ Wigglesworth St,0,45,B32013,Brigham Circle - Francis St at Huntington Ave
+door-wtcst-congress,World Trade Center - Congress St,2,46,B32014,Seaport Hotel - Congress St at Seaport Ln
+door-wtcst-wtc,World Trade Center - World Trade Center Ave,2,46,B32014,Seaport Hotel - Congress St at Seaport Ln
+17096,Congress St @ World Trade Center Sta,0,46,B32014,Seaport Hotel - Congress St at Seaport Ln
+74613,World Trade Center,0,46,B32014,Seaport Hotel - Congress St at Seaport Ln
+1806,Brookline Ave @ The Fenway,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+9441,Brookline Ave @ Boylston St,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+1777,Brookline Ave @ Pilgrim Rd,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+1519,Brookline Ave @ Fullerton St,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+1520,Brookline Ave @ Park Dr,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+1562,132 Brookline Ave opp Fullerton St,0,47,B32015,Landmark Center - Brookline Ave at Park Dr
+1,Washington St opp Ruggles St,0,48,B32017,Dudley Square - Bolling Building
+64,Nubian,0,48,B32017,Dudley Square - Bolling Building
+64000,Nubian,0,48,B32017,Dudley Square - Bolling Building
+64002,Dudley St @ Nubian Station,0,48,B32017,Dudley Square - Bolling Building
+1148,Malcolm X Blvd @ Shawmut Ave,0,48,B32017,Dudley Square - Bolling Building
+11259,Malcolm X Blvd @ Shawmut Ave,0,48,B32017,Dudley Square - Bolling Building
+1491,Dudley St @ Harrison Ave,0,48,B32017,Dudley Square - Bolling Building
+63,Washington St @ Ruggles St,0,48,B32017,Dudley Square - Bolling Building
+93,Massachusetts Ave @ Newbury St,0,49,B32018,Boylston St at Massachusetts Ave
+1931,Ipswich St @ Boylston St,0,49,B32018,Boylston St at Massachusetts Ave
+70152,Hynes Convention Center,0,49,B32018,Boylston St at Massachusetts Ave
+door-hymnl-mass,"Hynes Convention Center - Massachusetts Ave, Buses",2,49,B32018,Boylston St at Massachusetts Ave
+door-hymnl-newbury,Hynes Convention Center - Newbury St,2,49,B32018,Boylston St at Massachusetts Ave
+79,Massachusetts Ave @ Boylston St,0,49,B32018,Boylston St at Massachusetts Ave
+11390,Dalton St @ Belvidere St,0,49,B32018,Boylston St at Massachusetts Ave
+11391,Boylston St @ Massachusetts Ave,0,49,B32018,Boylston St at Massachusetts Ave
+31918,Ipswich St @ Boylston St,0,49,B32018,Boylston St at Massachusetts Ave
+1518,Brookline Ave opp Jersey St,0,50,B32020,Burlington Ave at Brookline Ave
+1519,Brookline Ave @ Fullerton St,0,50,B32020,Burlington Ave at Brookline Ave
+1562,132 Brookline Ave opp Fullerton St,0,50,B32020,Burlington Ave at Brookline Ave
+1563,Brookline Ave @ Jersey St,0,50,B32020,Burlington Ave at Brookline Ave
+1800,Louis Prang St @ Evans Way,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+51317,Huntington Ave @ Ruggles St,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+70245,Museum of Fine Arts,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+70246,Museum of Fine Arts,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+1784,Ruggles St @ Huntington Ave,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+71391,Huntington Ave @ Louis Prang St,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+1799,Ruggles St @ Huntington Ave,0,51,B32021,Wentworth Institute of Technology - Huntington Ave at Vancouver St
+390,Warren St @ Quincy St,0,52,B32022,Roxbury YMCA - Warren St at MLK Blvd
+392,Warren St @ Maywood St,0,52,B32022,Roxbury YMCA - Warren St at MLK Blvd
+406,Warren St @ ML King Blvd,0,52,B32022,Roxbury YMCA - Warren St at MLK Blvd
+407,Warren St @ Townsend St,0,52,B32022,Roxbury YMCA - Warren St at MLK Blvd
+13321,Townsend St @ Warren St,0,52,B32022,Roxbury YMCA - Warren St at MLK Blvd
+1183,Washington St @ Marcella St,0,53,B32023,MLK Blvd at Washington St
+1169,Washington St @ Brinton St,0,53,B32023,MLK Blvd at Washington St
+1170,Washington St @ ML King Blvd,0,53,B32023,MLK Blvd at Washington St
+1182,Washington St @ Valentine St,0,53,B32023,MLK Blvd at Washington St
+77777,Melnea Cass Blvd @ Washington St,0,54,B32026,Washington St at Melnea Cass Blvd
+3,Washington St @ Melnea Cass Blvd - Silver Line,0,54,B32026,Washington St at Melnea Cass Blvd
+6,Melnea Cass Blvd @ Harrison Ave,0,54,B32026,Washington St at Melnea Cass Blvd
+62,Washington St @ Williams St,0,54,B32026,Washington St at Melnea Cass Blvd
+2,Washington St @ Melnea Cass Blvd,0,54,B32026,Washington St at Melnea Cass Blvd
+61,Washington St @ Melnea Cass Blvd,0,54,B32026,Washington St at Melnea Cass Blvd
+10101,Melnea Cass Blvd @ Harrison Ave,0,54,B32026,Washington St at Melnea Cass Blvd
+7,Melnea Cass Blvd @ Washington St,0,54,B32026,Washington St at Melnea Cass Blvd
+11792,Harrison Ave @ Melnea Cass Blvd,0,54,B32026,Washington St at Melnea Cass Blvd
+568,Geneva Ave @ Blue Hill Ave,0,56,B32028,Grove Hall Library - 41 Geneva Ave
+567,Geneva Ave @ Jeremiah Burke High School,0,56,B32028,Grove Hall Library - 41 Geneva Ave
+2930,Columbia Rd @ Hamilton St,0,57,B32029,Columbia Rd at Ceylon St
+2914,Columbia Rd @ Hamilton St,0,57,B32029,Columbia Rd at Ceylon St
+2915,Columbia Rd opp Wyola Pl,0,57,B32029,Columbia Rd at Ceylon St
+2929,Columbia Rd @ Intervale St,0,57,B32029,Columbia Rd at Ceylon St
+1510,Bowdoin St @ Hendry St,0,58,B32031,Bowdoin St at Quincy St
+15100,St Peters Sq @ Church,0,58,B32031,Bowdoin St at Quincy St
+1511,Bowdoin St @ Quincy St,0,58,B32031,Bowdoin St at Quincy St
+11512,Bowdoin opp Mt Ida,0,58,B32031,Bowdoin St at Quincy St
+1471,Bowdoin St @ Hamilton St,0,58,B32031,Bowdoin St at Quincy St
+1472,Bowdoin St opp Elba Terr,0,58,B32031,Bowdoin St at Quincy St
+1473,Bowdoin St @ Quincy St,0,58,B32031,Bowdoin St at Quincy St
+14731,Bowdoin St @ Adams St,0,58,B32031,Bowdoin St at Quincy St
+65,State St @ Washington Mall - State St Sta,0,59,B32032,Government Center - Cambridge St at Court St
+70022,State,0,59,B32032,Government Center - Cambridge St at Court St
+door-state-cityhall,State - City Hall,2,59,B32032,Government Center - Cambridge St at Court St
+4510,Cambridge St @ Government Ctr Sta,0,59,B32032,Government Center - Cambridge St at Court St
+70039,Government Center,0,59,B32032,Government Center - Cambridge St at Court St
+door-gover-main,Government Center - City Hall Plaza,2,59,B32032,Government Center - Cambridge St at Court St
+49704,Tremont St @ Beacon St,0,59,B32032,Government Center - Cambridge St at Court St
+91391,Huntington Ave @ Longwood Ave,0,60,B32033,Huntington Ave at Mass Art
+70247,Longwood Medical Area,0,60,B32033,Huntington Ave at Mass Art
+70248,Longwood Medical Area,0,60,B32033,Huntington Ave at Mass Art
+31317,Huntington Ave @ Longwood Ave,0,60,B32033,Huntington Ave at Mass Art
+1927,Jersey St @ Boylston St,0,61,B32034,Boylston St at Jersey St
+1928,Ipswich St @ Boylston St,0,61,B32034,Boylston St at Jersey St
+1922,Ipswich St @ Boylston St,0,61,B32034,Boylston St at Jersey St
+1923,Boylston St @ Jersey St,0,61,B32034,Boylston St at Jersey St
+1317,Huntington Ave opp Fenwood Rd,0,62,B32036,One Brigham Circle
+1319,Tremont St opp Wigglesworth St,0,62,B32036,One Brigham Circle
+1362,Tremont St @ Huntington Ave,0,62,B32036,One Brigham Circle
+1363,Huntington Ave @ Fenwood Rd,0,62,B32036,One Brigham Circle
+70249,Brigham Circle,0,62,B32036,One Brigham Circle
+70250,Brigham Circle,0,62,B32036,One Brigham Circle
+70251,Fenwood Road,0,62,B32036,One Brigham Circle
+70252,Fenwood Road,0,62,B32036,One Brigham Circle
+21317,Huntington Ave @ Wigglesworth St,0,62,B32036,One Brigham Circle
+1564,Brookline Ave @ Newbury St,0,63,B32037,Deerfield St at Commonwealth Ave
+door-kencl-commonwealth,"Kenmore - Fenway Park, Commonwealth Ave",2,63,B32037,Deerfield St at Commonwealth Ave
+941,Commonwealth Ave @ Blandford St,0,63,B32037,Deerfield St at Commonwealth Ave
+8993,Brookline Ave opp Newbury St,0,63,B32037,Deerfield St at Commonwealth Ave
+70150,Kenmore,0,63,B32037,Deerfield St at Commonwealth Ave
+899,Kenmore,0,63,B32037,Deerfield St at Commonwealth Ave
+door-kencl-beacon,"Kenmore - Boston University, Beacon St",2,63,B32037,Deerfield St at Commonwealth Ave
+door-kencl-busway,"Kenmore - Busway, Commonwealth Ave",2,63,B32037,Deerfield St at Commonwealth Ave
+1149,205 Roxbury St,0,64,B32055,Bartlett St at John Elliot Sq
+1145,42A John Eliot Sq,0,64,B32055,Bartlett St at John Elliot Sq
+10000,Tremont St opp Temple Pl,0,65,B32056,Tremont St at Hamilton Pl
+door-dwnxg-macys,Downtown Crossing - Macy's,2,65,B32056,Tremont St at Hamilton Pl
+9170076,Park Street - Tremont St opp Hamilton Pl,0,65,B32056,Tremont St at Hamilton Pl
+door-dwnxg-winter,"Downtown Crossing - Washington St, Winter St",2,65,B32056,Tremont St at Hamilton Pl
+70075,Park Street,0,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-elevatoreb,Park Street - Tremont St to Lobby (Elevator 804),2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-elevatorwb,"Park Street - Elevator, Tremont St",2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-exitalewife,Park Street - Escalator to Tremont St (North),2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-exitashbrain,Park Street - Escalator to Tremont St (South),2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-tremonte,"Park Street - Tremont St, Boston Common",2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-tremontw,"Park Street - Boston Common, Tremont St",2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-tremstair,Park Street - Tremont St,2,65,B32056,Tremont St at Hamilton Pl
+49001,Temple Pl @ Washington St,0,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-winter,"Park Street - Tremont St, Winter St",2,65,B32056,Tremont St at Hamilton Pl
+door-pktrm-west,Park Street - Boston Common,2,65,B32056,Tremont St at Hamilton Pl
+9982,Beacon St @ Park St,0,65,B32056,Tremont St at Hamilton Pl
+49704,Tremont St @ Beacon St,0,65,B32056,Tremont St at Hamilton Pl
+WML-0025,Lansdowne,0,66,B32058,Lansdowne T Stop
+1518,Brookline Ave opp Jersey St,0,66,B32058,Lansdowne T Stop
+1563,Brookline Ave @ Jersey St,0,66,B32058,Lansdowne T Stop
+1224,Tremont St opp Prentiss St,0,67,B32059,Whittier St Health Center
+1257,Tremont St @ Prentiss St,0,67,B32059,Whittier St Health Center
+938,Commonwealth Ave @ St Mary's St,0,68,B32060,700 Commonwealth Ave.
+939,Commonwealth Ave @ Hinsdale St,0,68,B32060,700 Commonwealth Ave.
+70146,Boston University East,0,68,B32060,700 Commonwealth Ave.
+70147,Boston University East,0,68,B32060,700 Commonwealth Ave.
+952,Commonwealth Ave @ Granby St,0,68,B32060,700 Commonwealth Ave.
+9982,Beacon St @ Park St,0,69,B32061,One Beacon St
+9170076,Park Street - Tremont St opp Hamilton Pl,0,69,B32061,One Beacon St
+49704,Tremont St @ Beacon St,0,69,B32061,One Beacon St
+168,Tremont St @ Appleton St,0,70,C32000,Tremont St at E Berkeley St
+36539,E Berkeley @ Tremont St,0,70,C32000,Tremont St at E Berkeley St
+1238,Tremont St @ Herald St,0,70,C32000,Tremont St at E Berkeley St
+147,Herald St @ Tremont St,0,70,C32000,Tremont St at E Berkeley St
+1357,Tremont St opp Roxbury Crossing Sta,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+1258,Tremont St @ Roxbury Crossing Station,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+1323,Tremont St @ Columbus Ave,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+1222,Columbus Ave @ Malcolm X Blvd,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+11257,Malcolm X Blvd @ King St,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+70009,Roxbury Crossing,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+door-rcmnl-tremont,Roxbury Crossing - Tremont St,2,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+21148,Malcolm X Blvd @ Tremont St,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+WML-0012-05,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-buswayn,"Back Bay - Clarendon St, Buses (North)",2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-busways,"Back Bay - Clarendon St, Buses (South)",2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+176,Dartmouth St opp Back Bay Sta,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-dartmn,Back Bay - Dartmouth St (North),2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+71855,Stuart St @ Dartmouth St,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-dartmw,Back Bay - Dartmouth St (Tracks 5 and 7),2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-dartms,Back Bay - Dartmouth St (South),2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-underpass,Back Bay - Underpass to Copley Place,2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+door-bbsta-garage,Back Bay - Garage,2,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+178,Saint James Ave @ Dartmouth St,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+11384,Dartmouth St @ Back Bay Sta,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+23391,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+70014,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+70015,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+NEC-2276,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+NEC-2276-01,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+NEC-2276-02,Back Bay,0,72,C32003,Back Bay T Stop - Dartmouth St at Stuart St
+87,Massachusetts Ave @ Tremont St,0,73,C32004,Massachusetts Ave at Columbus Ave
+188,Massachusetts Ave @ Massachusetts Ave Station,0,73,C32004,Massachusetts Ave at Columbus Ave
+door-masta-corridor,Massachusetts Avenue - Massachusetts Ave (Northside),2,73,C32004,Massachusetts Ave at Columbus Ave
+5,Washington St @ Massachusetts Ave,0,74,C32005,Washington St at Lenox St
+55,Washington St @ Massachusetts Ave,0,74,C32005,Washington St at Lenox St
+4,Washington St @ Lenox St,0,74,C32005,Washington St at Lenox St
+60,Washington St @ Lenox St,0,74,C32005,Washington St at Lenox St
+59,Massachusetts Ave @ Washington St,0,74,C32005,Washington St at Lenox St
+1791,Harrison Ave @ E Lenox St,0,74,C32005,Washington St at Lenox St
+10590,Massachusetts Ave @ Washington St,0,74,C32005,Washington St at Lenox St
+19402,Washington St @ W Newton St,0,75,C32006,Washington St at Rutland St
+9421,E Newton St @ Washington St,0,75,C32006,Washington St at Rutland St
+15176,Washington St @ Worcester St,0,75,C32006,Washington St at Rutland St
+5091,E Newton St @ Harrison Ave,0,75,C32006,Washington St at Rutland St
+1787,Washington St @ Worcester St,0,75,C32006,Washington St at Rutland St
+1788,Washington St @ E Newton St,0,75,C32006,Washington St at Rutland St
+70239,Prudential,0,76,C32007,Prudential Center - 101 Huntington Ave
+door-prmnl-huntington,Prudential - Huntington Ave,2,76,C32007,Prudential Center - 101 Huntington Ave
+door-prmnl-prudential,Prudential - Prudential Center,2,76,C32007,Prudential Center - 101 Huntington Ave
+11389,Huntington Ave @ Prudential Station,0,76,C32007,Prudential Center - 101 Huntington Ave
+11388,Huntington Ave @ Belvidere St,0,76,C32007,Prudential Center - 101 Huntington Ave
+179,Huntington Ave @ Ring Rd,0,76,C32007,Prudential Center - 101 Huntington Ave
+1399,Belvidere St @ Huntington Ave,0,76,C32007,Prudential Center - 101 Huntington Ave
+174,Ring Rd @ Boylston St,0,77,C32008,Boylston St at Fairfield St
+1389,Boylston St @ Prudential Center,0,77,C32008,Boylston St at Fairfield St
+70081,Broadway,0,78,C32009,Dorchester Ave at Gillette Park
+door-brdwy-main,Broadway - Broadway,2,78,C32009,Dorchester Ave at Gillette Park
+door-brdwy-traveler,Broadway - Traveler St,2,78,C32009,Dorchester Ave at Gillette Park
+151,W Broadway @ Broadway Station,0,78,C32009,Dorchester Ave at Gillette Park
+150,Broadway Station - Red Line,0,78,C32009,Dorchester Ave at Gillette Park
+121,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+70085,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+70086,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+70095,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+70096,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+MM-0023-S,JFK/UMass,0,79,C32013,JFK/UMass T Stop
+door-jfk-busway,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Ramp)",2,79,C32013,JFK/UMass T Stop
+door-jfk-columbia,JFK/UMass - Columbia Rd,2,79,C32013,JFK/UMass T Stop
+door-jfk-oldcolony,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Stairs)",2,79,C32013,JFK/UMass T Stop
+door-jfk-sydneyn,JFK/UMass - Sydney St (North),2,79,C32013,JFK/UMass T Stop
+159,W Broadway @ F St,0,81,C32016,W Broadway at Dorchester St
+21,E Broadway @ G St,0,81,C32016,W Broadway at Dorchester St
+157,W Broadway @ Dorchester St,0,81,C32016,W Broadway at Dorchester St
+20,Dorchester St @ E Broadway,0,81,C32016,W Broadway at Dorchester St
+45,E Broadway @ G St,0,81,C32016,W Broadway at Dorchester St
+46,Dorchester St @ Broadway,0,81,C32016,W Broadway at Dorchester St
+158,442 W Broadway,0,81,C32016,W Broadway at Dorchester St
+156,W Broadway @ F St,0,81,C32016,W Broadway at Dorchester St
+43,E Broadway @ I St,0,82,C32017,South Boston Library - 646 E Broadway
+42,E Broadway @ K St,0,82,C32017,South Boston Library - 646 E Broadway
+23,E Broadway @ I St,0,82,C32017,South Boston Library - 646 E Broadway
+24,E Broadway @ K St,0,82,C32017,South Boston Library - 646 E Broadway
+30250,23 Drydock Ave,0,83,C32020,ID Building East
+30251,27 Drydock Ave,0,83,C32020,ID Building East
+31259,Drydock Ave @ Black Falcon Ave,0,83,C32020,ID Building East
+30249,Northern Ave @ Tide St,0,84,C32021,ID Building West
+30250,23 Drydock Ave,0,84,C32021,ID Building West
+31257,Northern Ave @ Tide St,0,84,C32021,ID Building West
+30,E Broadway @ Farragut Rd,0,85,C32023,Murphy Skating Rink - 1880 Day Blvd
+30272,Farragut Rd @ Broadway,0,85,C32023,Murphy Skating Rink - 1880 Day Blvd
+15095,Washington St @ Herald St,0,87,C32025,Ink Block - Harrison Ave at Herald St
+11481,Herald St @ Harrison Ave,0,87,C32025,Ink Block - Harrison Ave at Herald St
+49003,Washington St @ Herald St,0,87,C32025,Ink Block - Harrison Ave at Herald St
+148,Herald St @ Washington St,0,87,C32025,Ink Block - Harrison Ave at Herald St
+1354,Humboldt Ave @ Seaver St,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+1325,Humboldt Ave @ Seaver St,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+1326,Humboldt Ave @ Hutchings St,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+1741,Seaver St @ Humboldt Ave,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+17411,Seaver St opp Humboldt Ave,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+1353,Humboldt Ave @ Hutchings St,0,88,C32027,Franklin Park - Seaver St at Humboldt Ave
+160,W Broadway @ E St,0,90,C32029,W Broadway at D St
+154,W Broadway @ D St,0,90,C32029,W Broadway at D St
+161,W Broadway @ D St,0,90,C32029,W Broadway at D St
+162,W Broadway @ C St,0,90,C32029,W Broadway at D St
+155,W Broadway @ E St,0,90,C32029,W Broadway at D St
+1565,Franklin Park Loop @ Zoo entrance,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+1587,Franklin Park Zoo @ Entrance,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+2923,Old Rd @ Ellington St,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+2904,Columbia Rd @ Wolcott St,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+415,Blue Hill Ave @ Franklin Park Rd,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+416,Blue Hill Ave opp McLellan St,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+74614,Silver Line Way,0,92,C32032,Congress St at Northern Ave
+74624,Silver Line Way,0,92,C32032,Congress St at Northern Ave
+243,Northern Ave @ D St,0,92,C32032,Congress St at Northern Ave
+180,Bay St @ Auckland St,0,93,C32033,Savin Hill T Stop - S Sydney St at Bay St
+70087,Savin Hill,0,93,C32033,Savin Hill T Stop - S Sydney St at Bay St
+70088,Savin Hill,0,93,C32033,Savin Hill T Stop - S Sydney St at Bay St
+door-shmnl-savin,Savin Hill - Savin Hill Ave,2,93,C32033,Savin Hill T Stop - S Sydney St at Bay St
+door-shmnl-sydney,Savin Hill - South Sydney St,2,93,C32033,Savin Hill T Stop - S Sydney St at Bay St
+214,Seaport Blvd @ Pier 4 Blvd,0,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+21599,Seaport Blvd @ Sleeper St,0,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+74612,Courthouse,0,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+door-crtst-north,"Courthouse - Fan Pier Blvd, Seaport Blvd",2,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+door-crtst-south,"Courthouse - Thomson Pl, Seaport Blvd",2,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+11599,Seaport Blvd @ Fan Pier Blvd,0,94,C32034,Watermark Seaport - Boston Wharf Rd at Seaport Blvd
+36538,E Berkeley St @ Harrison Ave,0,95,C32035,Troy Boston
+21599,Seaport Blvd @ Sleeper St,0,96,C32036,Seaport Blvd at Sleeper St
+74612,Courthouse,0,96,C32036,Seaport Blvd at Sleeper St
+door-crtst-north,"Courthouse - Fan Pier Blvd, Seaport Blvd",2,96,C32036,Seaport Blvd at Sleeper St
+door-crtst-south,"Courthouse - Thomson Pl, Seaport Blvd",2,96,C32036,Seaport Blvd at Sleeper St
+11599,Seaport Blvd @ Fan Pier Blvd,0,96,C32036,Seaport Blvd at Sleeper St
+467,Washington Street @ Four Corners / Geneva Station,0,97,C32037,Four Corners - 157 Washington St
+2919,Columbia Rd @ Washington St,0,97,C32037,Four Corners - 157 Washington St
+468,Washington St @ Columbia Rd,0,97,C32037,Four Corners - 157 Washington St
+2925,Columbia Rd @ Washington St,0,97,C32037,Four Corners - 157 Washington St
+473,Washington St @ Columbia Rd,0,97,C32037,Four Corners - 157 Washington St
+475,Washington Street @ Four Corners / Geneva Station,0,97,C32037,Four Corners - 157 Washington St
+4374,Washington St @ Lithgow St,0,98,C32038,Washington St at Talbot Ave
+425,Talbot Ave @ Norfolk St,0,98,C32038,Washington St at Talbot Ave
+426,Talbot Ave @ Lithgow St,0,98,C32038,Washington St at Talbot Ave
+485,Washington St @ Southern Ave,0,98,C32038,Washington St at Talbot Ave
+371,Talbot Ave @ Centre St,0,98,C32038,Washington St at Talbot Ave
+372,Talbot Ave @ Southern Ave,0,98,C32038,Washington St at Talbot Ave
+457,Washington St @ Kenwood St,0,98,C32038,Washington St at Talbot Ave
+431,355 Norfolk St opp Withington St,0,98,C32038,Washington St at Talbot Ave
+3078,Gallivan Blvd @ Ross Rd,0,99,C32040,Gallivan Blvd at Adams St
+3079,Adams St @ Minot St,0,99,C32040,Gallivan Blvd at Adams St
+8687,Adams St @ Minot St,0,99,C32040,Gallivan Blvd at Adams St
+33691,Granite Ave @ Gallivan Blvd,0,99,C32040,Gallivan Blvd at Adams St
+3370,Gallivan Blvd @ Kenmere Rd,0,99,C32040,Gallivan Blvd at Adams St
+3378,Granite Ave @ Gallivan Blvd,0,99,C32040,Gallivan Blvd at Adams St
+323,Fields Corner,0,100,C32041,Fields Corner T Stop
+325,Park St Busway @ Dorchester Ave,0,100,C32041,Fields Corner T Stop
+70090,Fields Corner,0,100,C32041,Fields Corner T Stop
+door-fldcr-busway,"Fields Corner - Busway, Street",2,100,C32041,Fields Corner T Stop
+345,Dorchester Ave opp Charles St,0,100,C32041,Fields Corner T Stop
+346,Dorchester Ave @ Adams St,0,100,C32041,Fields Corner T Stop
+419,Blue Hill Ave @ Angell St,0,101,C32043,Talbot Ave At Blue Hill Ave
+420,Talbot Ave opp Nightingale St,0,101,C32043,Talbot Ave At Blue Hill Ave
+1706,Blue Hill Ave @ Harvard St,0,101,C32043,Talbot Ave At Blue Hill Ave
+1736,Blue Hill Ave opp Health Ctr,0,101,C32043,Talbot Ave At Blue Hill Ave
+1737,Blue Hill Ave @ Harvard St,0,101,C32043,Talbot Ave At Blue Hill Ave
+378,Talbot Ave @ Nightingale St,0,101,C32043,Talbot Ave At Blue Hill Ave
+1722,1624 Blue Hill Ave @ Mattapan Sq,0,102,C32045,Mattapan T Stop
+70275,Mattapan,0,102,C32045,Mattapan T Stop
+70276,Mattapan,0,102,C32045,Mattapan T Stop
+door-matt-northbus,Mattapan - Upper Busway,2,102,C32045,Mattapan T Stop
+door-matt-southbus,Mattapan - Lower Busway,2,102,C32045,Mattapan T Stop
+door-matt-square,Mattapan - Mattapan Square,2,102,C32045,Mattapan T Stop
+6366,River St @ Blue Hill Ave,0,102,C32045,Mattapan T Stop
+6368,River St @ Cummings Hwy,0,102,C32045,Mattapan T Stop
+16458,Cummins Hwy @ Fairway St,0,102,C32045,Mattapan T Stop
+96434,Cummins Hwy @ River St,0,102,C32045,Mattapan T Stop
+1720,Blue Hill Ave @ Mattapan Sq,0,102,C32045,Mattapan T Stop
+6464,Cummins Hwy @ Florence St,0,103,C32046,Roslindale Village - Washington St
+635,Washington St @ Poplar St,0,103,C32046,Roslindale Village - Washington St
+636,Washington St @ Cummins Hwy,0,103,C32046,Roslindale Village - Washington St
+6022,Poplar St @ South St,0,103,C32046,Roslindale Village - Washington St
+602,South St @ Taft Hill Terr,0,103,C32046,Roslindale Village - Washington St
+6428,Cummins Hwy @ Washington St,0,103,C32046,Roslindale Village - Washington St
+795,Corinth St @ Cohasset St,0,103,C32046,Roslindale Village - Washington St
+635,Washington St @ Poplar St,0,104,C32047,Roslindale Village - South St
+636,Washington St @ Cummins Hwy,0,104,C32047,Roslindale Village - South St
+NB-0064-S,Roslindale Village,0,104,C32047,Roslindale Village - South St
+6022,Poplar St @ South St,0,104,C32047,Roslindale Village - South St
+602,South St @ Taft Hill Terr,0,104,C32047,Roslindale Village - South St
+6428,Cummins Hwy @ Washington St,0,104,C32047,Roslindale Village - South St
+597,Washington St @ Lochdale Rd,0,105,C32048,Archdale Rd at Washington St
+598,Washington St @ Archdale Rd,0,105,C32048,Archdale Rd at Washington St
+599,Washington St @ Mosgrove Ave,0,105,C32048,Archdale Rd at Washington St
+640,Washington St @ Archdale Rd,0,105,C32048,Archdale Rd at Washington St
+639,Washington St @ Whipple Ave,0,105,C32048,Archdale Rd at Washington St
+1716,Blue Hill Ave @ Mattapan St,0,106,C32050,Mattapan Library
+1726,Blue Hill Ave @ Mattapan Library,0,106,C32050,Mattapan Library
+1728,Blue Hill Ave @ Fessenden St,0,106,C32050,Mattapan Library
+296,P St @ Columbia Rd,0,107,C32051,Farragut Rd at E. 6th St
+270,Columbia Rd @ P St,0,107,C32051,Farragut Rd at E. 6th St
+30270,Farragut Rd opp E Sixth St,0,107,C32051,Farragut Rd at E. 6th St
+70081,Broadway,0,108,C32053,Broadway T Stop
+door-brdwy-main,Broadway - Broadway,2,108,C32053,Broadway T Stop
+door-brdwy-traveler,Broadway - Traveler St,2,108,C32053,Broadway T Stop
+151,W Broadway @ Broadway Station,0,108,C32053,Broadway T Stop
+150,Broadway Station - Red Line,0,108,C32053,Broadway T Stop
+4374,Washington St @ Lithgow St,0,109,C32055,Codman Square Library
+518,Washington St @ Ashmont St,0,109,C32055,Codman Square Library
+437,Washington St @ Welles Ave,0,109,C32055,Codman Square Library
+1253,Tremont St @ Douglas Pk,0,110,C32056,Tremont St at Northampton St
+11228,Tremont St @ Lenox St,0,110,C32056,Tremont St at Northampton St
+1228,Tremont St @ Hammond St,0,110,C32056,Tremont St at Northampton St
+1230,Tremont St @ Northampton St,0,110,C32056,Tremont St at Northampton St
+84,Massachusetts Ave @ Tremont St,0,110,C32056,Tremont St at Northampton St
+87,Massachusetts Ave @ Tremont St,0,110,C32056,Tremont St at Northampton St
+1252,Tremont St @ Northampton St,0,110,C32056,Tremont St at Northampton St
+148,Herald St @ Washington St,0,111,C32057,Harrison Ave at Mullins Way
+15095,Washington St @ Herald St,0,111,C32057,Harrison Ave at Mullins Way
+11481,Herald St @ Harrison Ave,0,111,C32057,Harrison Ave at Mullins Way
+36538,E Berkeley St @ Harrison Ave,0,111,C32057,Harrison Ave at Mullins Way
+49003,Washington St @ Herald St,0,111,C32057,Harrison Ave at Mullins Way
+799,Belgrade Ave opp Penfield St,0,112,C32059,Belgrade Ave at Walworth St
+800,Belgrade Ave @ Walworth St,0,112,C32059,Belgrade Ave at Walworth St
+801,Belgrade Ave opp Aldrich St,0,112,C32059,Belgrade Ave at Walworth St
+790,Belgrade Ave @ Aldrich St,0,112,C32059,Belgrade Ave at Walworth St
+791,Belgrade Ave @ Walworth St,0,112,C32059,Belgrade Ave at Walworth St
+792,Belgrade Ave @ Penfield St,0,112,C32059,Belgrade Ave at Walworth St
+1246,Tremont St @ Union Pk,0,113,C32060,Tremont St at W. Dedham St
+1234,Tremont St @ Aguadilla St,0,113,C32060,Tremont St at W. Dedham St
+1235,Tremont St @ Upton St,0,113,C32060,Tremont St at W. Dedham St
+1248,Tremont St @ Pembroke St,0,113,C32060,Tremont St at W. Dedham St
+1382,43 W Dedham St,0,113,C32060,Tremont St at W. Dedham St
+1383,Dartmouth St @ Tremont St,0,113,C32060,Tremont St at W. Dedham St
+1396,Dartmouth St @ Tremont St,0,113,C32060,Tremont St at W. Dedham St
+1397,Opp 43 W Dedham St,0,113,C32060,Tremont St at W. Dedham St
+10013,Albany St @ E Dedham St,0,114,C32061,Albany St at E. Brookline St
+10006,Albany St opp E Newton St,0,114,C32061,Albany St at E. Brookline St
+334,Ashmont,0,115,C32062,Ashmont T Stop
+70093,Ashmont,0,115,C32062,Ashmont T Stop
+door-asmnl-beale,Ashmont - Beale St,2,115,C32062,Ashmont T Stop
+door-asmnl-matpn,Ashmont - Mattapan Line (Lobby),2,115,C32062,Ashmont T Stop
+door-asmnl-peabody,Ashmont - Peabody Square,2,115,C32062,Ashmont T Stop
+door-asmnl-rdexits,Ashmont - Buses,2,115,C32062,Ashmont T Stop
+367,Talbot Ave @ Dorchester Ave,0,115,C32062,Ashmont T Stop
+430,Talbot Ave @ Dorchester Ave,0,115,C32062,Ashmont T Stop
+8717,Dorchester Ave @ Talbot Ave,0,115,C32062,Ashmont T Stop
+30336,Dorchester Ave @ Dracut St,0,115,C32062,Ashmont T Stop
+door-masta-main,Massachusetts Avenue - Massachusetts Ave (Southside),2,116,C32063,Mass Ave T Station
+door-masta-side,Massachusetts Avenue - Southwest Corridor Park,2,116,C32063,Mass Ave T Station
+187,Massachusetts Ave @ Massachusetts Ave Station,0,116,C32063,Mass Ave T Station
+188,Massachusetts Ave @ Massachusetts Ave Station,0,116,C32063,Mass Ave T Station
+70241,Symphony,0,116,C32063,Mass Ave T Station
+82,Massachusetts Ave @ Huntington Ave,0,116,C32063,Mass Ave T Station
+door-symcl-ebsymphony,"Symphony - Massachusetts Ave, Symphony Hall",2,116,C32063,Mass Ave T Station
+89,Massachusetts Ave @ St Botolph St,0,116,C32063,Mass Ave T Station
+door-symcl-ebchurch,"Symphony - Massachusetts Ave, First Church of Christ",2,116,C32063,Mass Ave T Station
+door-symcl-huntw,"Symphony - Massachusetts Ave, Huntington Ave (West)",2,116,C32063,Mass Ave T Station
+door-symcl-westland,"Symphony - Westland Ave, Symphony Hall",2,116,C32063,Mass Ave T Station
+door-symcl-hunte,"Symphony - Massachusetts Ave, Huntington Ave (East)",2,116,C32063,Mass Ave T Station
+door-masta-corridor,Massachusetts Avenue - Massachusetts Ave (Northside),2,116,C32063,Mass Ave T Station
+70085,JFK/UMass,0,117,C32064,Sydney St at Carson St
+70086,JFK/UMass,0,117,C32064,Sydney St at Carson St
+70095,JFK/UMass,0,117,C32064,Sydney St at Carson St
+70096,JFK/UMass,0,117,C32064,Sydney St at Carson St
+MM-0023-S,JFK/UMass,0,117,C32064,Sydney St at Carson St
+door-jfk-columbia,JFK/UMass - Columbia Rd,2,117,C32064,Sydney St at Carson St
+door-jfk-oldcolony,"JFK/UMass - Busway, JFK Library, Mount Vernon St (Stairs)",2,117,C32064,Sydney St at Carson St
+door-jfk-sydneyn,JFK/UMass - Sydney St (North),2,117,C32064,Sydney St at Carson St
+door-jfk-sydneys,JFK/UMass - Sydney St (South),2,117,C32064,Sydney St at Carson St
+339,Dorchester Ave @ King St,0,118,C32066,Dorchester Ave at King St
+330,Dorchester Ave @ Cheverus Rd,0,118,C32066,Dorchester Ave at King St
+329,Dorchester Ave @ Centre St,0,118,C32066,Dorchester Ave at King St
+340,Dorchester Ave @ Centre St,0,118,C32066,Dorchester Ave at King St
+1395,Dartmouth St @ Appleton St,0,119,C32077,Columbus Ave at W. Canton St
+1384,Dartmouth St @ Appleton St,0,119,C32077,Columbus Ave at W. Canton St
+6478,Hyde Park Ave @ Cummins Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+36500,American Legion Hwy @ Stella Rd,0,120,C32079,American Legion Hwy at Cummins Hwy
+10423,American Legion Hwy @ Stella Rd,0,120,C32079,American Legion Hwy at Cummins Hwy
+10424,American Legion Hwy @ Cummins Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+6496,Hyde Park Ave @ Cummins Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+26500,American Legion Hwy @ Cummins Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+6459,Cummins Hwy @ Hyde Park Ave,0,120,C32079,American Legion Hwy at Cummins Hwy
+16434,Cummins Hwy @ American Legion Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+96459,Cummins Hwy @ American Legion Hwy,0,120,C32079,American Legion Hwy at Cummins Hwy
+808,Centre St opp Bellevue st,0,121,C32086,Centre St at Parkway YMCA
+782,Centre St Opp Mt Vernon St,0,121,C32086,Centre St at Parkway YMCA
+810,1999 Centre St,0,121,C32086,Centre St at Parkway YMCA
+781,Centre St @ Lagrange St,0,121,C32086,Centre St at Parkway YMCA
+10777,Spring St @ Cass St,0,122,C32087,Spring St at Powell St
+813,Spring St opp Powell St,0,122,C32087,Spring St at Powell St
+778,Spring St @ Powell St,0,122,C32087,Spring St at Powell St
+814,Spring St @ Gardner St,0,122,C32087,Spring St at Powell St
+6495,Hyde Park Ave opp Walk Hill St,0,123,C32089,Hyde Park Ave at Walk Hill St
+76479,Hyde Park Ave @ Walk Hill St,0,123,C32089,Hyde Park Ave at Walk Hill St
+139,263 Mt Vernon St @ St Christopher's Church,0,124,C32090,Geiger Gibson Community Health Center
+41111,250 Mt Vernon St @ Geiger Gibson Health Center,0,124,C32090,Geiger Gibson Community Health Center
+31111,Mt Vernon St opp Paul A. Dever School,0,124,C32090,Geiger Gibson Community Health Center
+21158,Harrison Ave opp Plympton St,0,126,C32093,Harrison Ave at E. Dedham St
+11158,Harrison Ave @ E Brookline St,0,126,C32093,Harrison Ave at E. Dedham St
+1743,Columbus Ave @ Walnut Ave,0,127,C32102,Walnut Ave at School St
+11413,Columbus Ave @ Walnut Ave,0,127,C32102,Walnut Ave at School St
+499,Gallivan Blvd @ Fairmount St,0,128,C32103,Morton St at Gallivan Blvd
+507,Gallivan Blvd @ Morton St,0,128,C32103,Morton St at Gallivan Blvd
+530,Morton St @ Lorna Rd,0,128,C32103,Morton St at Gallivan Blvd
+NEC-2203,Hyde Park,0,129,C32104,Cleary Sq
+2819,Hyde Park Ave @ Pingree St,0,129,C32104,Cleary Sq
+6509,Hyde Park Ave @ Winthrop St,0,129,C32104,Cleary Sq
+36466,Hyde Park Ave @ Oak St,0,129,C32104,Cleary Sq
+10419,American Legion Hwy @ Canterbury St,0,130,C32105,606 American Legion Hwy at Canterbury St
+10422,Opp 684 American Legion Hwy,0,130,C32105,606 American Legion Hwy at Canterbury St
+96500,American Legion Hwy @ Canterbury St,0,130,C32105,606 American Legion Hwy at Canterbury St
+1040,Market St @ Guest St,0,132,D32001,New Balance - 20 Guest St
+1079,Market St @ Vineland St,0,132,D32001,New Balance - 20 Guest St
+15094,Washington St @ Savoy St,0,133,D32002,Washington St at Waltham St
+1381,W Dedham St @ Washington St,0,133,D32002,Washington St at Waltham St
+5093,Washington St @ Union Pk,0,133,D32002,Washington St at Waltham St
+5094,Washington St @ Perry St,0,133,D32002,Washington St at Waltham St
+1789,Washington St @ Mystic St,0,133,D32002,Washington St at Waltham St
+5099,Washington St opp Savoy St,0,133,D32002,Washington St at Waltham St
+1398,W Dedham St @ Washington St,0,133,D32002,Washington St at Waltham St
+5100,Washington St @ W Dedham St,0,133,D32002,Washington St at Waltham St
+71855,Stuart St @ Dartmouth St,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+70154,Copley,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+70155,Copley,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+door-coecl-bpl,Copley - Boylston St,2,134,D32005,Copley Square - Dartmouth St at Boylston St
+door-coecl-church,"Copley - Dartmouth St, Old South Church",2,134,D32005,Copley Square - Dartmouth St at Boylston St
+door-coecl-east,Copley - Dartmouth St (East),2,134,D32005,Copley Square - Dartmouth St at Boylston St
+178,Saint James Ave @ Dartmouth St,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+143,Boylston St @ Clarendon St,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+175,Boylston St @ Dartmouth St,0,134,D32005,Copley Square - Dartmouth St at Boylston St
+30235,Atlantic Ave @ Commercial Wharf,0,135,D32006,Lewis Wharf at Atlantic Ave
+234,Commercial St @ Fleet St,0,135,D32006,Lewis Wharf at Atlantic Ave
+9983,Stuart St @ Charles St S,0,136,D32007,Boylston St at Arlington St
+1241,Charles St S @ Park Plaza,0,136,D32007,Boylston St at Arlington St
+30233,Atlantic Ave @ Milk St,0,137,D32008,Rowes Wharf at Atlantic Ave
+Boat-Rowes,Rowes Wharf,0,137,D32008,Rowes Wharf at Atlantic Ave
+223,Atlantic Ave @ Rowes Wharf,0,137,D32008,Rowes Wharf at Atlantic Ave
+204,Congress St opp North St,0,138,D32009,Congress St at Boston City Hall
+117,Congress St @ Haymarket Sta,0,138,D32009,Congress St at Boston City Hall
+9170024,Haymarket - Congress St @ New Sudbury St,0,138,D32009,Congress St at Boston City Hall
+9370022,State - Devonshire St @ State St,0,138,D32009,Congress St at Boston City Hall
+65,State St @ Washington Mall - State St Sta,0,138,D32009,Congress St at Boston City Hall
+70022,State,0,138,D32009,Congress St at Boston City Hall
+door-state-cityhall,State - City Hall,2,138,D32009,Congress St at Boston City Hall
+door-state-congress,State - Congress St (North),2,138,D32009,Congress St at Boston City Hall
+190,Congress St @ State St,0,138,D32009,Congress St at Boston City Hall
+door-state-state,"State - Old State House, State St",2,138,D32009,Congress St at Boston City Hall
+191,Congress St @ North St,0,138,D32009,Congress St at Boston City Hall
+9070025,Haymarket - Congress St @ Hanover St,0,138,D32009,Congress St at Boston City Hall
+door-haecl-congress,"Haymarket - RMV, City Hall, Faneuil Hall Marketplace",2,138,D32009,Congress St at Boston City Hall
+117,Congress St @ Haymarket Sta,0,139,D32010,Cross St at Hanover St
+8309,Surface Rd @ Hanover St,0,139,D32010,Cross St at Hanover St
+83091,Surface Rd opp Public Market,0,139,D32010,Cross St at Hanover St
+9070025,Haymarket - Congress St @ Hanover St,0,139,D32010,Cross St at Hanover St
+70024,Haymarket,0,139,D32010,Cross St at Hanover St
+door-haecl-busway,"Haymarket - RMV, Sudbury St, New Chardon St",2,139,D32010,Cross St at Hanover St
+9983,Stuart St @ Charles St S,0,140,D32011,Stuart St at Charles St
+1241,Charles St S @ Park Plaza,0,140,D32011,Stuart St at Charles St
+door-armnl-arltw,Arlington - Arlington St (West),2,141,D32013,Boylston St at Berkeley St
+door-armnl-elevator,"Arlington - Elevator, Boylston St",2,141,D32013,Boylston St at Berkeley St
+door-armnl-garden,Arlington - Public Garden,2,141,D32013,Boylston St at Berkeley St
+144,Boylston St @ Berkeley St,0,141,D32013,Boylston St at Berkeley St
+173,Saint James Ave @ Clarendon St,0,141,D32013,Boylston St at Berkeley St
+143,Boylston St @ Clarendon St,0,141,D32013,Boylston St at Berkeley St
+10000,Tremont St opp Temple Pl,0,142,D32014,Tremont St at West St
+70159,Boylston,0,142,D32014,Tremont St at West St
+door-boyls-outbound,"Boylston - Boston Common, Street",2,142,D32014,Tremont St at West St
+8279,Tremont St @ Boylston Station,0,142,D32014,Tremont St at West St
+door-dwnxg-temple,"Downtown Crossing - Temple Place, Lafaytette Place",2,142,D32014,Tremont St at West St
+70075,Park Street,0,142,D32014,Tremont St at West St
+door-pktrm-elevatoreb,Park Street - Tremont St to Lobby (Elevator 804),2,142,D32014,Tremont St at West St
+door-pktrm-elevatorwb,"Park Street - Elevator, Tremont St",2,142,D32014,Tremont St at West St
+49001,Temple Pl @ Washington St,0,142,D32014,Tremont St at West St
+door-pktrm-exitashbrain,Park Street - Escalator to Tremont St (South),2,142,D32014,Tremont St at West St
+door-pktrm-tremonte,"Park Street - Tremont St, Boston Common",2,142,D32014,Tremont St at West St
+door-pktrm-tremontw,"Park Street - Boston Common, Tremont St",2,142,D32014,Tremont St at West St
+door-pktrm-tremstair,Park Street - Tremont St,2,142,D32014,Tremont St at West St
+door-pktrm-west,Park Street - Boston Common,2,142,D32014,Tremont St at West St
+door-pktrm-winter,"Park Street - Tremont St, Winter St",2,142,D32014,Tremont St at West St
+door-pktrm-exitalewife,Park Street - Escalator to Tremont St (North),2,142,D32014,Tremont St at West St
+6555,Chinatown Gate,0,143,D32015,Chinatown Gate Plaza
+6550,Lincoln St @ Essex St,0,143,D32015,Chinatown Gate Plaza
+9070073,Charles/MGH - Cambridge St @ Lindall Pl,0,144,D32016,Charles Circle - Charles St at Cambridge St
+9070074,Charles/MGH - 325 Cambridge St,0,144,D32016,Charles Circle - Charles St at Cambridge St
+70073,Charles/MGH,0,144,D32016,Charles Circle - Charles St at Cambridge St
+70074,Charles/MGH,0,144,D32016,Charles Circle - Charles St at Cambridge St
+door-chmnl-main,"Charles/MGH - Beacon Hill, Esplanade, Hospitals",2,144,D32016,Charles Circle - Charles St at Cambridge St
+door-chncl-ogessex,"Chinatown - Washington St, Essex St",2,146,D32019,Chinatown T Stop
+70158,Boylston,0,146,D32019,Chinatown T Stop
+door-boyls-inbound,"Boylston - Boston Common, Street",2,146,D32019,Chinatown T Stop
+6567,Washington St @ Essex St,0,146,D32019,Chinatown T Stop
+6537,Washington St @ Essex St,0,146,D32019,Chinatown T Stop
+6542,Kneeland St @ Washington St,0,146,D32019,Chinatown T Stop
+70018,Chinatown,0,146,D32019,Chinatown T Stop
+door-chncl-fhelevator,"Chinatown - Washington St, Essex St",2,146,D32019,Chinatown T Stop
+door-chncl-foresthills,"Chinatown - Washington St, Essex St",2,146,D32019,Chinatown T Stop
+door-chncl-ogelevator,Chinatown - Elevator (Oak Grove),2,146,D32019,Chinatown T Stop
+2836,Warren St @ Church St,0,147,D32020,Main St at Austin St
+2825,Main St @ W School St,0,147,D32020,Main St at Austin St
+2837,Main St @ School St,0,147,D32020,Main St at Austin St
+12826,Main St @ Union St,0,147,D32020,Main St at Austin St
+2855,Park St @ Warren St,0,148,D32021,Warren St at Chelsea St
+12829,Chelsea St @ Warren St,0,148,D32021,Warren St at Chelsea St
+12836,Chelsea St @ Warren St,0,148,D32021,Warren St at Chelsea St
+28281,Main St @ Park St,0,148,D32021,Warren St at Chelsea St
+2835,Warren St @ Winthrop St,0,148,D32021,Warren St at Chelsea St
+9980,Charles St @ Beacon St,0,150,D32024,Beacon St at Charles St
+1268,Washington St @ Shepard St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+971,Cambridge St @ Elko St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+972,Washington St @ Waldo Terr,0,151,D32028,Brighton Center - Washington St at Cambridge St
+919,Washington St opp Waldo Terr,0,151,D32028,Brighton Center - Washington St at Cambridge St
+920,Cambridge St @ Washington St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+1300,Washington St opp Shepard St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+1301,7 Winship St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+19201,Cambridge St opp Elko St,0,151,D32028,Brighton Center - Washington St at Cambridge St
+975,Washington St @ Brock St,0,152,D32029,Washington St at Brock St
+916,Washington St @ Lake St,0,152,D32029,Washington St at Brock St
+912,Tremont St @ Washington St,0,153,D32031,Oak Square - 615 Washington St
+913,Washington St @ Breck Ave,0,153,D32031,Oak Square - 615 Washington St
+9780,Washington St @ Oak Sq,0,153,D32031,Oak Square - 615 Washington St
+977,Washington St @ Oak Square Ave,0,153,D32031,Oak Square - 615 Washington St
+979,Tremont St @ Washington St,0,153,D32031,Oak Square - 615 Washington St
+1213,Faneuil St @ Bigelow St,0,153,D32031,Oak Square - 615 Washington St
+1214,Faneuil St @ Oak Square,0,153,D32031,Oak Square - 615 Washington St
+939,Commonwealth Ave @ Hinsdale St,0,154,D32032,Silber Way
+941,Commonwealth Ave @ Blandford St,0,154,D32032,Silber Way
+951,Commonwealth Ave @ Silber Way,0,154,D32032,Silber Way
+70148,Blandford Street,0,154,D32032,Silber Way
+70149,Blandford Street,0,154,D32032,Silber Way
+70114,Chiswick Road,0,155,D32033,Commonwealth Ave at Chiswick Rd
+70115,Chiswick Road,0,155,D32033,Commonwealth Ave at Chiswick Rd
+70112,Chestnut Hill Avenue,0,155,D32033,Commonwealth Ave at Chiswick Rd
+70124,Warren Street,0,156,D32034,Commonwealth Ave at Kelton St
+70125,Warren Street,0,156,D32034,Commonwealth Ave at Kelton St
+70126,Allston Street,0,156,D32034,Commonwealth Ave at Kelton St
+1378,Harvard Ave @ Commonwealth Ave,0,157,D32035,Harvard Ave at Brainerd Rd
+1302,Harvard Ave @ Commonwealth Ave,0,157,D32035,Harvard Ave at Brainerd Rd
+70130,Harvard Avenue,0,157,D32035,Harvard Ave at Brainerd Rd
+70131,Harvard Avenue,0,157,D32035,Harvard Ave at Brainerd Rd
+2839,Main St @ Oak St,0,158,D32036,Main St at Baldwin St
+12866,Bunker Hill St @ Baldwin St,0,158,D32036,Main St at Baldwin St
+2840,Main St @ Baldwin St,0,158,D32036,Main St at Baldwin St
+2845,Bunker Hill St @ Baldwin St,0,158,D32036,Main St at Baldwin St
+2822,Main St @ Baldwin St,0,158,D32036,Main St at Baldwin St
+2823,Main St @ Middlesex St,0,158,D32036,Main St at Baldwin St
+2862,Bunker Hill St @ Polk St,0,159,D32037,Medford St at Charlestown BCYF
+2836,Warren St @ Church St,0,160,D32038,Main St at Thompson Sq
+2827,Main St @ Harvard St,0,160,D32038,Main St at Thompson Sq
+12826,Main St @ Union St,0,160,D32038,Main St at Thompson Sq
+12838,Chelsea St @ Fifth St,0,161,D32039,Charlestown Navy Yard
+12856,First Ave @ Fifth St,0,161,D32039,Charlestown Navy Yard
+12859,First Ave @ Terry Ring,0,161,D32039,Charlestown Navy Yard
+5235,Washington St @ Rossmore Rd,0,162,D32040,Williams St at Washington St
+51187,Washington St @ Union Ave,0,162,D32040,Williams St at Washington St
+61187,Washington St @ Williams St,0,162,D32040,Williams St at Washington St
+15235,Washington St @ Rockvale Circle,0,162,D32040,Williams St at Washington St
+70004,Stony Brook,0,163,D32041,Stony Brook T Stop
+door-sbmnl-main,Stony Brook - Amory St,2,163,D32041,Stony Brook T Stop
+9983,Stuart St @ Charles St S,0,164,D32042,Park Plaza at Charles St S.
+145,Arlington St @ Saint James Ave,0,164,D32042,Park Plaza at Charles St S.
+1241,Charles St S @ Park Plaza,0,164,D32042,Park Plaza at Charles St S.
+177,Saint James Ave @ Arlington St,0,164,D32042,Park Plaza at Charles St S.
+6542,Kneeland St @ Washington St,0,165,D32043,Harrison Ave at Bennet St
+70154,Copley,0,166,D32045,Dartmouth St at Newbury St
+70155,Copley,0,166,D32045,Dartmouth St at Newbury St
+door-coecl-bpl,Copley - Boylston St,2,166,D32045,Dartmouth St at Newbury St
+door-coecl-church,"Copley - Dartmouth St, Old South Church",2,166,D32045,Dartmouth St at Newbury St
+door-coecl-east,Copley - Dartmouth St (East),2,166,D32045,Dartmouth St at Newbury St
+178,Saint James Ave @ Dartmouth St,0,166,D32045,Dartmouth St at Newbury St
+175,Boylston St @ Dartmouth St,0,166,D32045,Dartmouth St at Newbury St
+70154,Copley,0,167,D32046,Boylston St at Exeter St
+70155,Copley,0,167,D32046,Boylston St at Exeter St
+door-coecl-bpl,Copley - Boylston St,2,167,D32046,Boylston St at Exeter St
+door-coecl-church,"Copley - Dartmouth St, Old South Church",2,167,D32046,Boylston St at Exeter St
+door-coecl-east,Copley - Dartmouth St (East),2,167,D32046,Boylston St at Exeter St
+174,Ring Rd @ Boylston St,0,167,D32046,Boylston St at Exeter St
+175,Boylston St @ Dartmouth St,0,167,D32046,Boylston St at Exeter St
+door-tumnl-tremont,"Tufts Medical Center - Tremont St, YMCA Wang",2,168,D32048,Shawmut Ave at Oak St W
+8281,285 Tremont St,0,168,D32048,Shawmut Ave at Oak St W
+1239,Tremont St @ Marginal St,0,168,D32048,Shawmut Ave at Oak St W
+1242,Tremont St @ Charles St S,0,168,D32048,Shawmut Ave at Oak St W
+171,Berkeley St @ Columbus Ave,0,169,D32049,Stuart St at Berkeley St
+144,Boylston St @ Berkeley St,0,169,D32049,Stuart St at Berkeley St
+2006,South St @ Jamaica St,0,170,D32052,Jamaica St at South St
+1937,South St @ Child St,0,170,D32052,Jamaica St at South St
+29006,Sullivan Square,0,171,D32053,Sullivan Square
+29007,Sullivan Square,0,171,D32053,Sullivan Square
+29008,Sullivan Square,0,171,D32053,Sullivan Square
+29009,Sullivan Square,0,171,D32053,Sullivan Square
+29010,Sullivan Square,0,171,D32053,Sullivan Square
+29011,Sullivan Square,0,171,D32053,Sullivan Square
+29012,Sullivan Square,0,171,D32053,Sullivan Square
+29013,Sullivan Square,0,171,D32053,Sullivan Square
+29014,Sullivan Square,0,171,D32053,Sullivan Square
+door-sull-main,"Sullivan Square - Buses, Parking, Street",2,171,D32053,Sullivan Square
+29001,Sullivan Square,0,171,D32053,Sullivan Square
+29002,Sullivan Square,0,171,D32053,Sullivan Square
+29003,Sullivan Square,0,171,D32053,Sullivan Square
+29004,Sullivan Square,0,171,D32053,Sullivan Square
+29005,Sullivan Square,0,171,D32053,Sullivan Square
+1298,Washington St @ Monastery Rd,0,172,D32054,The Overlook at St. Gabriel's
+1270,Washington St @ Monastery Rd,0,172,D32054,The Overlook at St. Gabriel's
+191,Congress St @ North St,0,173,D32057,Clinton St at North St
+83091,Surface Rd opp Public Market,0,173,D32057,Clinton St at North St
+1939,775 Centre St,0,174,E32001,Curtis Hall - South St at Centre St
+1128,South St @ Sedgwick St,0,174,E32001,Curtis Hall - South St at Centre St
+11939,Centre St @ Eliot St,0,174,E32001,Curtis Hall - South St at Centre St
+2003,Centre St @ Ballard St,0,174,E32001,Curtis Hall - South St at Centre St
+99991,South St @ Bardwell St,0,174,E32001,Curtis Hall - South St at Centre St
+6570,S Huntington Ave @ Perkins St,0,175,E32003,Hyde Square - Barbara St at Centre St
+1134,Centre St @ Paul Gore St,0,175,E32003,Hyde Square - Barbara St at Centre St
+1135,Centre St @ Sheridan St,0,175,E32003,Hyde Square - Barbara St at Centre St
+1158,Centre St @ Creighton St,0,175,E32003,Hyde Square - Barbara St at Centre St
+1159,Centre St @ Barbara St,0,175,E32003,Hyde Square - Barbara St at Centre St
+1165,Washington St @ Walnut Pk,0,176,E32004,Egleston Square - Atherton St at Washington St
+11187,Washington St @ School St,0,176,E32004,Egleston Square - Atherton St at Washington St
+1215,Columbus Ave @ Bray St,0,176,E32004,Egleston Square - Atherton St at Washington St
+10413,Columbus Ave @ Weld Ave,0,176,E32004,Egleston Square - Atherton St at Washington St
+1186,Washington St @ Bray St,0,176,E32004,Egleston Square - Atherton St at Washington St
+1187,Washington St @ Atherton St,0,176,E32004,Egleston Square - Atherton St at Washington St
+1188,Columbus Ave opp Weld Ave,0,176,E32004,Egleston Square - Atherton St at Washington St
+35236,Washington St @ School St,0,176,E32004,Egleston Square - Atherton St at Washington St
+1266,Columbus Ave opp Bray St,0,176,E32004,Egleston Square - Atherton St at Washington St
+70002,Green Street,0,177,E32005,Green Street T Stop - Green St at Amory St
+70003,Green Street,0,177,E32005,Green Street T Stop - Green St at Amory St
+door-grnst-main,"Green Street - Woolsey Sq, Green St, Amory St",2,177,E32005,Green Street T Stop - Green St at Amory St
+door-jaksn-main,"Jackson Square - Centre St, Busway, Park",2,178,E32006,Jackson Square T Stop
+1155,Centre St @ Bickford St,0,178,E32006,Jackson Square T Stop
+11531,Jackson Square,0,178,E32006,Jackson Square T Stop
+70006,Jackson Square,0,178,E32006,Jackson Square T Stop
+22365,105 S Huntington Ave,0,179,E32007,S Huntington Ave at Heath St
+1760,Heath St opp VA Hospital,0,179,E32007,S Huntington Ave at Heath St
+1761,Heath St @ S Huntington Ave,0,179,E32007,S Huntington Ave at Heath St
+70260,Heath Street,0,179,E32007,S Huntington Ave at Heath St
+70257,Back of the Hill,0,179,E32007,S Huntington Ave at Heath St
+6573,S Huntington Ave @ VA Hospital,0,179,E32007,S Huntington Ave at Heath St
+70258,Back of the Hill,0,179,E32007,S Huntington Ave at Heath St
+65741,100 S Huntington Ave,0,179,E32007,S Huntington Ave at Heath St
+31365,S Huntington Ave opp VA Hospital,0,179,E32007,S Huntington Ave at Heath St
+1747,Heath St @ VA Hospital,0,179,E32007,S Huntington Ave at Heath St
+70091,Shawmut,0,180,E32009,Shawmut T Stop
+door-smmnl-clemen,"Shawmut - Clementine Park, Centre St",2,180,E32009,Shawmut T Stop
+10642,Forest Hills,0,181,E32010,Forest Hills
+70001,Forest Hills,0,181,E32010,Forest Hills
+875,Forest Hills,0,181,E32010,Forest Hills
+Forest Hills-01,Forest Hills,0,181,E32010,Forest Hills
+Forest Hills-02,Forest Hills,0,181,E32010,Forest Hills
+NEC-2237,Forest Hills,0,181,E32010,Forest Hills
+NEC-2237-03,Forest Hills,0,181,E32010,Forest Hills
+NEC-2237-05,Forest Hills,0,181,E32010,Forest Hills
+door-forhl-arborway,"Forest Hills - Arborway, Arnold Arboretum, South St, Washington St (Jamaica Plain)",2,181,E32010,Forest Hills
+door-forhl-lowern,"Forest Hills - Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (North)",2,181,E32010,Forest Hills
+door-forhl-lowers,"Forest Hills - Hyde Park Ave, West Roxbury Court, Franklin Park/Zoo (South)",2,181,E32010,Forest Hills
+door-forhl-south,"Forest Hills - Arborway, Southwest Corridor Park",2,181,E32010,Forest Hills
+door-forhl-upper,Forest Hills - Washington St (Roslindale),2,181,E32010,Forest Hills
+1265,Columbus Ave @ Dimock St,0,182,E32011,The Dimock Center
+1167,Washington St opp Dimock St,0,182,E32011,The Dimock Center
+1216,Columbus Ave @ Dimock St,0,182,E32011,The Dimock Center
+1185,Washington St @ Dimock St,0,182,E32011,The Dimock Center
+1155,Centre St @ Bickford St,0,183,E32012,Martha Eliot Health Center
+1138,Centre St @ Estrella St,0,183,E32012,Martha Eliot Health Center
+70243,Northeastern University,0,184,B32062,Forsyth St at Huntington Ave
+70244,Northeastern University,0,184,B32062,Forsyth St at Huntington Ave
+61391,Huntington Ave @ Forsyth Way,0,184,B32062,Forsyth St at Huntington Ave
+81317,360 Huntington Ave,0,184,B32062,Forsyth St at Huntington Ave
+41391,Huntington Ave @ Opera Pl,0,184,B32062,Forsyth St at Huntington Ave
+71317,Huntington Ave @ Parker St,0,184,B32062,Forsyth St at Huntington Ave
+6509,Hyde Park Ave @ Winthrop St,0,185,E32013,Hyde Park Library
+1320,Tremont St @ Saint Alphonsus St,0,187,B32063,St. Alphonsus St at Tremont St
+1360,Tremont St @ Saint Alphonsus St,0,187,B32063,St. Alphonsus St at Tremont St
+11592,Ruggles St @ Cabot St,0,188,B32064,Flat 9 at Whittier
+11593,Ruggles St opp Kerr Way,0,188,B32064,Flat 9 at Whittier
+door-rugg-columbus,"Ruggles - Columbus Ave, Tremont St",2,188,B32064,Flat 9 at Whittier
+214,Seaport Blvd @ Pier 4 Blvd,0,189,C32107,Pier 4 Blvd at Autumn Ln
+60,Washington St @ Lenox St,0,190,D32059,Shawmut Ave at Lenox St
+4,Washington St @ Lenox St,0,190,D32059,Shawmut Ave at Lenox St
+1253,Tremont St @ Douglas Pk,0,192,D32061,Lenox St at Kendall St
+1254,Tremont St @ Burke St,0,192,D32061,Lenox St at Kendall St
+11228,Tremont St @ Lenox St,0,192,D32061,Lenox St at Kendall St
+1228,Tremont St @ Hammond St,0,192,D32061,Lenox St at Kendall St
+1230,Tremont St @ Northampton St,0,192,D32061,Lenox St at Kendall St
+1252,Tremont St @ Northampton St,0,192,D32061,Lenox St at Kendall St
+DB-2240,Talbot Avenue,0,195,C32110,Talbot Ave T Station
+422,Talbot Ave @ Bernard St,0,195,C32110,Talbot Ave T Station
+423,Talbot Ave @ Talbot Station,0,195,C32110,Talbot Ave T Station
+374,Talbot Ave @ Talbot Station,0,195,C32110,Talbot Ave T Station
+375,Talbot Ave @ Bernard St,0,195,C32110,Talbot Ave T Station
+door-cedgr-hillsdale,Cedar Grove - Hillsdale St,2,196,C23109,Cedar Grove T Stop
+70263,Cedar Grove,0,196,C23109,Cedar Grove T Stop
+70264,Cedar Grove,0,196,C23109,Cedar Grove T Stop
+door-cedgr-fellsway,Cedar Grove - Fellsway St,2,196,C23109,Cedar Grove T Stop
+467,Washington Street @ Four Corners / Geneva Station,0,197,C32111,Four Corners/Geneva T Stop
+475,Washington Street @ Four Corners / Geneva Station,0,197,C32111,Four Corners/Geneva T Stop
+DB-2249,Four Corners/Geneva,0,197,C32111,Four Corners/Geneva T Stop
+26459,Cummins Hwy @ Brockton St,0,198,Z32999,Cummins Highway at Blue Hill Ave T Stop
+16459,Cummins Hwy @ Regis Rd,0,198,Z32999,Cummins Highway at Blue Hill Ave T Stop
+86434,Cummins Hwy @ Rosewood St,0,198,Z32999,Cummins Highway at Blue Hill Ave T Stop
+76434,Cummins Hwy @ Bismark St,0,198,Z32999,Cummins Highway at Blue Hill Ave T Stop
+71317,Huntington Ave @ Parker St,0,199,Z32997,Parker St at Huntington Ave
+1798,Ruggles St @ Parker St,0,199,Z32997,Parker St at Huntington Ave
+1785,Ruggles St @ Annunciation Rd,0,199,Z32997,Parker St at Huntington Ave
+61391,Huntington Ave @ Forsyth Way,0,199,Z32997,Parker St at Huntington Ave
+123,Columbia Rd opp Pond St,0,200,C32112,Meaney Playground - Pleasant St at E Cottage St
+304,Dorchester Ave @ Cottage St,0,200,C32112,Meaney Playground - Pleasant St at E Cottage St
+305,Dorchster Ave @ Howes St,0,200,C32112,Meaney Playground - Pleasant St at E Cottage St
+135,Columbia Rd @ Pond St,0,200,C32112,Meaney Playground - Pleasant St at E Cottage St
+354,Dorchester Ave @ Crescent Ave,0,200,C32112,Meaney Playground - Pleasant St at E Cottage St
+1114,Cambridge St @ N Harvard St,0,201,E32015,Lincoln St at Empire St
+2556,N Harvard St @ Hooker St,0,201,E32015,Lincoln St at Empire St
+2558,N Harvard St @ Empire St,0,201,E32015,Lincoln St at Empire St
+1191,Cambridge St @ Lincoln St,0,201,E32015,Lincoln St at Empire St
+931,Brighton Ave @ Commonwealth Ave,0,202,E32016,Commonwealth Ave at Naples Rd
+933,Commonwealth Ave @ Babcock St,0,202,E32016,Commonwealth Ave at Naples Rd
+70134,Packard's Corner,0,202,E32016,Commonwealth Ave at Naples Rd
+70135,Packard's Corner,0,202,E32016,Commonwealth Ave at Naples Rd
+door-babck-ebbabcock,Babcock Street - Babcock St,2,202,E32016,Commonwealth Ave at Naples Rd
+door-babck-wbbabcock,Babcock Street - Babcock St,2,202,E32016,Commonwealth Ave at Naples Rd
+958,Commonwealth Ave @ Babcock St,0,202,E32016,Commonwealth Ave at Naples Rd
+960,Brighton Ave @ Malvern St,0,202,E32016,Commonwealth Ave at Naples Rd
+door-butlr-branchfield,"Butler - Branchfield St, Butler St",2,203,E32017,Butler T Stop
+70265,Butler,0,203,E32017,Butler T Stop
+70266,Butler,0,203,E32017,Butler T Stop
+door-butlr-bearse,"Butler - Bearse Ave, Butler St",2,203,E32017,Butler T Stop
+9370022,State - Devonshire St @ State St,0,204,A32058,Tremont St at Court St
+65,State St @ Washington Mall - State St Sta,0,204,A32058,Tremont St at Court St
+70022,State,0,204,A32058,Tremont St at Court St
+door-state-cityhall,State - City Hall,2,204,A32058,Tremont St at Court St
+4510,Cambridge St @ Government Ctr Sta,0,204,A32058,Tremont St at Court St
+70039,Government Center,0,204,A32058,Tremont St at Court St
+door-gover-main,Government Center - City Hall Plaza,2,204,A32058,Tremont St at Court St
+door-state-state,"State - Old State House, State St",2,204,A32058,Tremont St at Court St
+49704,Tremont St @ Beacon St,0,204,A32058,Tremont St at Court St
+16535,Otis St @ Summer St,0,205,D32004,Arch St at Franklin St
+door-dwnxg-101arch,"Downtown Crossing - 101 Arch St, Summer St",2,205,D32004,Arch St at Franklin St
+door-dwnxg-franklin,Downtown Crossing - Franklin St,2,205,D32004,Arch St at Franklin St
+door-dwnxg-hawley,Downtown Crossing - Hawley St (Escalator),2,205,D32004,Arch St at Franklin St
+16538,Chauncy St @ Summer St,0,205,D32004,Arch St at Franklin St
+door-dwnxg-chauncy,Downtown Crossing - Chauncy St,2,205,D32004,Arch St at Franklin St
+16539,Milk St @ Devonshire St,0,205,D32004,Arch St at Franklin St
+door-dwnxg-rochebros,Downtown Crossing - Roche Bros,2,205,D32004,Arch St at Franklin St
+door-dwnxg-summereast,"Downtown Crossing - Summer St, Washington St",2,205,D32004,Arch St at Franklin St
+16551,Congress St @ Franklin St,0,205,D32004,Arch St at Franklin St
+door-dwnxg-summer,"Downtown Crossing - Washington St, Summer St",2,205,D32004,Arch St at Franklin St
+70020,Downtown Crossing,0,205,D32004,Arch St at Franklin St
+6535,Franklin St @ Devonshire St,0,205,D32004,Arch St at Franklin St
+6548,Devonshire St @ Milk St,0,205,D32004,Arch St at Franklin St
+6551,Federal St @ Franklin St,0,205,D32004,Arch St at Franklin St
+143,Boylston St @ Clarendon St,0,206,D32047,Clarendon St at Newbury St
+173,Saint James Ave @ Clarendon St,0,206,D32047,Clarendon St at Newbury St
+1129,Centre St @ Seaverns Ave,0,207,E32008,Centre St at Seaverns Ave
+11164,Centre St @ Burroughs St,0,207,E32008,Centre St at Seaverns Ave
+1164,Centre St @ Myrtle St,0,207,E32008,Centre St at Seaverns Ave
+16551,Congress St @ Franklin St,0,208,D32012,Post Office Square
+12891,Pearl St @ High St,0,208,D32012,Post Office Square
+11891,Pearl St @ Congress St,0,208,D32012,Post Office Square
+2116,Purchase St @ Pearl St,0,208,D32012,Post Office Square
+6551,Federal St @ Franklin St,0,208,D32012,Post Office Square
+41391,Huntington Ave @ Opera Pl,0,209,B32012,Northeastern University - North Parking Lot
+81317,360 Huntington Ave,0,209,B32012,Northeastern University - North Parking Lot
+70244,Northeastern University,0,209,B32012,Northeastern University - North Parking Lot
+95,Massachusetts Ave @ Beacon St,0,210,B32016,Beacon St at Massachusetts Ave
+77,Massachusetts Ave @ Marlborough St,0,210,B32016,Beacon St at Massachusetts Ave
+496,Gallivan Blvd @ Owencroft Rd,0,211,C32083,Washington St at Walsh Playground
+532,Gallivan Blvd @ Stone Terr,0,211,C32083,Washington St at Walsh Playground
+511,Washington St @ Gallivan Blvd,0,211,C32083,Washington St at Walsh Playground
+514,Washington St @ Coolidge Rd,0,212,C32084,Washington St at Fuller St
+515,Washington St @ Fuller St,0,212,C32084,Washington St at Fuller St
+516,Washington St @ Burt St,0,212,C32084,Washington St at Fuller St
+574,River St @ Cedar St,0,213,C32088,Central Ave at River St
+14211,Central Ave @ Central Ave Station,0,213,C32088,Central Ave at River St
+588,River St opp Cedar St,0,213,C32088,Central Ave at River St
+10603,Washington St @ Durnell Ave,0,214,C32081,Washington St at Denton Terr
+10633,Washington St @ Rosecliff St,0,214,C32081,Washington St at Denton Terr
+633,Washington St @ Metropolitan Ave,0,214,C32081,Washington St at Denton Terr
+604,Washington St @ Metropolitan Ave,0,214,C32081,Washington St at Denton Terr
+605,Washington St @ Cornell St,0,214,C32081,Washington St at Denton Terr
+632,Washington St @ Cornell St,0,214,C32081,Washington St at Denton Terr
+803,Belgrade Ave @ McCraw St,0,215,C32095,Bellevue T Stop
+NB-0072-S,Bellevue,0,215,C32095,Bellevue T Stop
+804,Belgrade Ave @ West Roxbury Pkwy,0,215,C32095,Bellevue T Stop
+5214,Anawan Ave @ W Roxbury Pkwy,0,215,C32095,Bellevue T Stop
+787,Belgrade Ave @ West Roxbury Pkwy,0,215,C32095,Bellevue T Stop
+788,Belgrade Ave @ Iona St,0,215,C32095,Bellevue T Stop
+15216,Centre @ Colbert St,0,215,C32095,Bellevue T Stop
+5257,W Roxbury Pkwy @ Beech St,0,215,C32095,Bellevue T Stop
+5258,Anawan Ave @ W Roxbury Pkwy,0,215,C32095,Bellevue T Stop
+1875,Weld St @ Wedgewood Rd,0,216,C32096,Knoll St at Centre St
+5223,Centre St @ Weld St,0,216,C32096,Knoll St at Centre St
+5249,Centre St @ Weld St,0,216,C32096,Knoll St at Centre St
+5250,1437 Centre St opp Ardale St,0,216,C32096,Knoll St at Centre St
+5221,Centre St @ Hewlett St,0,216,C32096,Knoll St at Centre St
+5222,Centre St @ Ardale St,0,216,C32096,Knoll St at Centre St
+1853,Weld St opp Wedgewood Rd,0,216,C32096,Knoll St at Centre St
+36479,Hyde Park Ave @ Southbourne Rd,0,217,C32078,Northbourne Rd at Hyde Park Ave
+26495,Hyde Park Ave opp Eldridge Rd,0,217,C32078,Northbourne Rd at Hyde Park Ave
+56479,Hyde Park Ave @ Eldridge Rd,0,217,C32078,Northbourne Rd at Hyde Park Ave
+36495,Hyde Park Ave @ Dellmore Rd,0,217,C32078,Northbourne Rd at Hyde Park Ave
+56495,Hyde Park Ave opp Mt Hope St,0,218,C32080,Mt. Hope St at Hyde Park Ave
+46495,Hyde Park Ave opp Florian Street,0,218,C32080,Mt. Hope St at Hyde Park Ave
+6479,512 Hyde Park Ave,0,218,C32080,Mt. Hope St at Hyde Park Ave
+6480,Hyde Park Ave @ Mt Hope St,0,218,C32080,Mt. Hope St at Hyde Park Ave
+16479,Hyde Park Ave @ Florian St,0,218,C32080,Mt. Hope St at Hyde Park Ave
+6468,Hyde Park Ave @ West St,0,219,C32100,Hyde Park Ave at Arlington St
+6505,Hyde Park Ave @ Westminster St,0,219,C32100,Hyde Park Ave at Arlington St
+6470,Hyde Park Ave @ Westminster St,0,219,C32100,Hyde Park Ave at Arlington St
+6507,Hyde Park Ave @ West St,0,219,C32100,Hyde Park Ave at Arlington St
+9070083,Andrew - Dorchester Ave @ Humboldt Pl,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+52,Dorchester St @ Dorchester Ave,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+13,Andrew,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+70083,Andrew,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+door-andrw-busway,Andrew - Buses,2,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+door-andrw-dotave,"Andrew - Street, Buses",2,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+door-andrw-elevator,Andrew - Elevator,2,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+door-andrw-exitonly,Andrew - Southampton St,2,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+35202,Preble St @ Dorchester Ave,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+14,Dorchester St @ Dorchester Ave,0,220,C32012,Andrew T Stop - Dorchester Ave at Dexter St
+174,Ring Rd @ Boylston St,0,222,C32058,Ring Rd
+179,Huntington Ave @ Ring Rd,0,222,C32058,Ring Rd
+1389,Boylston St @ Prudential Center,0,222,C32058,Ring Rd
+door-aport-buses,"Airport - Buses, Airport",2,224,A32055,Airport T Stop - Bremen St at Brooks St
+5869,Bennington St @ Brooks St,0,224,A32055,Airport T Stop - Bremen St at Brooks St
+70047,Airport,0,224,A32055,Airport T Stop - Bremen St at Brooks St
+door-aport-bremen,Airport - Bremen St,2,224,A32055,Airport T Stop - Bremen St at Brooks St
+70120,Washington Street,0,226,A32037,Washington St at Egremont Rd
+70121,Washington Street,0,226,A32037,Washington St at Egremont Rd
+1273,Washington St @ Commonwealth Ave,0,226,A32037,Washington St at Egremont Rd
+1274,Washington St @ Corey Rd,0,226,A32037,Washington St at Egremont Rd
+1294,Washington St @ Corey Rd,0,226,A32037,Washington St at Egremont Rd
+1295,Washington St @ Commonwealth Ave,0,226,A32037,Washington St at Egremont Rd
+1077,495 Western Ave,0,227,A32043,Western Ave at Richardson St
+1076,445 Western Ave,0,227,A32043,Western Ave at Richardson St
+1043,Western Ave @ Mackin St,0,227,A32043,Western Ave at Richardson St
+1045,450 Western Ave,0,227,A32043,Western Ave at Richardson St
+5745,Meridian St @ Eutaw St,0,228,A32048,Marion St at White St
+5746,Meridian St @ White St,0,228,A32048,Marion St at White St
+5747,Meridian St @ Falcon St,0,228,A32048,Marion St at White St
+5730,Meridian St @ Condor St,0,228,A32048,Marion St at White St
+5731,Meridian St @ West Eagle St,0,228,A32048,Marion St at White St
+5732,Meridian St @ White St,0,228,A32048,Marion St at White St
+5733,Meridian St @ Eutaw St,0,228,A32048,Marion St at White St
+93,Massachusetts Ave @ Newbury St,0,229,B32000,Newbury St at Hereford St
+70152,Hynes Convention Center,0,229,B32000,Newbury St at Hereford St
+door-hymnl-mass,"Hynes Convention Center - Massachusetts Ave, Buses",2,229,B32000,Newbury St at Hereford St
+door-hymnl-newbury,Hynes Convention Center - Newbury St,2,229,B32000,Newbury St at Hereford St
+11482,Dudley St @ Uphams Corner Station,0,230,B32025,Uphams Corner T Stop - Magnolia St at Dudley St
+14831,Dudley St opp Howard Ave,0,230,B32025,Uphams Corner T Stop - Magnolia St at Dudley St
+1500,Dudley St @ Howard Ave,0,230,B32025,Uphams Corner T Stop - Magnolia St at Dudley St
+1501,Dudley St @ Uphams Corner Station,0,230,B32025,Uphams Corner T Stop - Magnolia St at Dudley St
+395,Warren St @ Whiting St,0,231,B32030,Walnut Ave at Warren St
+396,Warren St @ Moreland St,0,231,B32030,Walnut Ave at Warren St
+40001,Warren St @ Dabney Pl,0,231,B32030,Walnut Ave at Warren St
+401,Warren St @ Walnut Ave,0,231,B32030,Walnut Ave at Warren St
+1338,Walnut Ave @ Rockland St,0,231,B32030,Walnut Ave at Warren St
+1339,Walnut Ave @ St Richard St,0,231,B32030,Walnut Ave at Warren St
+1340,Walnut Ave @ Circuit St,0,231,B32030,Walnut Ave at Warren St
+1341,Walnut Ave @ Rockland St,0,231,B32030,Walnut Ave at Warren St
+1570,Blue Hill Ave @ Woodcliff St,0,232,B32057,Blue Hill Ave at Southwood St
+1571,Blue Hill Ave @ Ingleside St,0,232,B32057,Blue Hill Ave at Southwood St
+1572,Blue Hill Ave @ Julian St,0,232,B32057,Blue Hill Ave at Southwood St
+1581,Blue Hill Ave @ Clifford St,0,232,B32057,Blue Hill Ave at Southwood St
+1582,Blue Hill Ave @ Edgewood St,0,232,B32057,Blue Hill Ave at Southwood St
+15820,Blue Hill Ave @ Maywood St,0,232,B32057,Blue Hill Ave at Southwood St
+528,Morton St @ Norfolk St,0,233,C23045,Morton St T
+443,Norfolk St @ Morton St,0,233,C23045,Morton St T
+541,Morton St @ Norfolk St,0,233,C23045,Morton St T
+58,Massachusetts Ave @ Harrison Ave,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+10005,Albany St opp E Concord St,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+15088,Harrison Ave opp East Springfield St,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+10015,Harrison Ave @ E Newton St,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+5089,91 E Concord St,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+5091,E Newton St @ Harrison Ave,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+1790,Harrison Ave @ Worcester Sq,0,234,C32002,Boston Medical Center - E Concord St at Harrison Ave
+2909,Boston St opp Mayhew St,0,235,C32018,E Cottage St at Columbia Rd
+123,Columbia Rd opp Pond St,0,235,C32018,E Cottage St at Columbia Rd
+134,Massachusetts Ave @ Columbia Rd,0,235,C32018,E Cottage St at Columbia Rd
+124,Massachusetts Ave @ Columbia Rd,0,235,C32018,E Cottage St at Columbia Rd
+135,Columbia Rd @ Pond St,0,235,C32018,E Cottage St at Columbia Rd
+2935,Columbia Rd @ Massachusetts Ave,0,235,C32018,E Cottage St at Columbia Rd
+2937,Boston St @ Mayhew St,0,235,C32018,E Cottage St at Columbia Rd
+1480,Columbia Rd @ Hancock St,0,236,C32019,Uphams Corner
+1481,Dudley St @ Belden St,0,236,C32019,Uphams Corner
+2910,Columbia Rd @ Dudley St,0,236,C32019,Uphams Corner
+11501,Dudley St @ Virginia St,0,236,C32019,Uphams Corner
+2933,Columbia Rd @ Stoughton St,0,236,C32019,Uphams Corner
+304,Dorchester Ave @ Cottage St,0,237,C32031,Ryan Playground - Dorchester Ave at Harbor View St
+305,Dorchster Ave @ Howes St,0,237,C32031,Ryan Playground - Dorchester Ave at Harbor View St
+306,Dorchester Ave @ Mayfield St,0,237,C32031,Ryan Playground - Dorchester Ave at Harbor View St
+353,Dorchester Ave @ Romsey St,0,237,C32031,Ryan Playground - Dorchester Ave at Harbor View St
+354,Dorchester Ave @ Crescent Ave,0,237,C32031,Ryan Playground - Dorchester Ave at Harbor View St
+478,Washington St @ Harvard St,0,239,C32042,Washington St at Bowdoin St
+461,Washington St opp Algonquin St,0,239,C32042,Washington St at Bowdoin St
+480,Washington St @ Algonquin St,0,239,C32042,Washington St at Bowdoin St
+463,Washington St @ Bowdoin St,0,239,C32042,Washington St at Bowdoin St
+438,227 Norfolk St opp Stanton St,0,240,C32049,Thetford Ave at Norfolk St
+435,Norfolk St @ Milton Ave,0,240,C32049,Thetford Ave at Norfolk St
+436,Norfolk St @ Charles Rd,0,240,C32049,Thetford Ave at Norfolk St
+3083,Adams St opp Msgr. Lydon Way,0,241,C32065,Adams St at Lonsdale St
+3084,Adams St opp Lonsdale St,0,241,C32065,Adams St at Lonsdale St
+3085,Adams St @ King St,0,241,C32065,Adams St at Lonsdale St
+8681,Adams St @ King St,0,241,C32065,Adams St at Lonsdale St
+8682,Adams St @ Lonsdale St,0,241,C32065,Adams St at Lonsdale St
+8683,Adams St @ Msgr Lydon Way,0,241,C32065,Adams St at Lonsdale St
+2851,Bunker Hill St @ Ferrin St,0,242,D32026,Hayes Square - Vine St at Moulton St
+2852,Bunker Hill St @ Vine St,0,242,D32026,Hayes Square - Vine St at Moulton St
+2853,Bunker Hill St @ Lowney Way,0,242,D32026,Hayes Square - Vine St at Moulton St
+2860,Vine St @ Moulton St,0,242,D32026,Hayes Square - Vine St at Moulton St
+12852,Vine St @ Bunker Hill St,0,242,D32026,Hayes Square - Vine St at Moulton St
+1485,Dudley St @ Langdon St,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1486,Dudley St @ Magazine St,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1487,Dudley St @ Hampden St,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1497,Dudley St @ Blue Hill Ave,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1498,Dudley St @ Dennis St,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1576,Blue Hill Ave @ Dudley St,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+1577,Blue Hill Ave @ Mt Pleasant Ave,0,245,C32015,Dudley Town Common - Mt Pleasant Ave at Blue Hill Ave
+door-north-crnashua,"North Station - Causeway St (West), Nashua St",2,246,A32046,Canal St at Causeway St
+door-north-tdgarden,North Station - TD Garden passageway (Elevator),2,246,A32046,Canal St at Causeway St
+door-north-valenti,North Station - Valenti Way,2,246,A32046,Canal St at Causeway St
+113,Portland St @ Causeway St,0,246,A32046,Canal St at Causeway St
+70026,North Station,0,246,A32046,Canal St at Causeway St
+114,Causeway St @ North Station,0,246,A32046,Canal St at Causeway St
+BNT-0000,North Station,0,246,A32046,Canal St at Causeway St
+118,Causeway St @ Medford St,0,246,A32046,Canal St at Causeway St
+BNT-0000-09,North Station,0,246,A32046,Canal St at Causeway St
+door-north-causewaye,North Station - Causeway St (Elevator),2,246,A32046,Canal St at Causeway St
+door-north-causeways,"North Station - Causeway St, Haverhill St",2,246,A32046,Canal St at Causeway St
+door-north-crcanal,"North Station - Causeway St, Canal St",2,246,A32046,Canal St at Causeway St
+door-north-crcauseway,North Station - Causeway St (East),2,246,A32046,Canal St at Causeway St
+70223,Summit Avenue,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+1372,Harvard St @ Beacon St,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+70219,Coolidge Corner,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+70220,Coolidge Corner,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+1308,Harvard St @ Beacon St,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+70231,Tappan Street,0,248,K32002,Beacon St at Tappan St
+70232,Tappan Street,0,248,K32002,Beacon St at Tappan St
+1525,Brookline Ave @ Pearl St,0,249,K32003,Brookline Village - Station Street at MBTA
+1526,Washington St @ Pearl St,0,249,K32003,Brookline Village - Station Street at MBTA
+11366,Pearl St @ Brookline Village,0,249,K32003,Brookline Village - Station Street at MBTA
+1555,Washington St @ Walnut St,0,249,K32003,Brookline Village - Station Street at MBTA
+1556,678 Brookline Ave opp Pearl St,0,249,K32003,Brookline Village - Station Street at MBTA
+70180,Brookline Village,0,249,K32003,Brookline Village - Station Street at MBTA
+70181,Brookline Village,0,249,K32003,Brookline Village - Station Street at MBTA
+door-bvmnl-boylston,"Brookline Village - Buses, Route 9",2,249,K32003,Brookline Village - Station Street at MBTA
+door-bvmnl-kent,"Brookline Village - Station St, Kent St",2,249,K32003,Brookline Village - Station Street at MBTA
+door-bvmnl-place,Brookline Village - 10 Brookline Place West,2,249,K32003,Brookline Village - Station Street at MBTA
+door-bvmnl-washington,"Brookline Village - Station St, Washington St",2,249,K32003,Brookline Village - Station Street at MBTA
+11302,Harvard St @ Verndale St,0,250,K32004,JFK Crossing at Harvard St. / Thorndike St.
+1375,Harvard St @ Coolidge St,0,250,K32004,JFK Crossing at Harvard St. / Thorndike St.
+1304,Harvard St @ Coolidge St,0,250,K32004,JFK Crossing at Harvard St. / Thorndike St.
+1286,Washington St @ Harvard St,0,251,K32005,Brookline Town Hall
+1287,Washington St @ School St,0,251,K32005,Brookline Town Hall
+1367,Harvard St @ Kent St,0,251,K32005,Brookline Town Hall
+1282,Washington St @ Cypress St,0,251,K32005,Brookline Town Hall
+1283,Washington St @ Harvard St,0,251,K32005,Brookline Town Hall
+1313,Harvard St @ Washington St,0,251,K32005,Brookline Town Hall
+933,Commonwealth Ave @ Babcock St,0,252,K32006,Commonwealth Ave At Babcock St
+170136,Babcock Street,0,252,K32006,Commonwealth Ave At Babcock St
+170137,Babcock Street,0,252,K32006,Commonwealth Ave At Babcock St
+door-babck-ebagganis,"Babcock Street - Harry Agganis Way, Pleasant St",2,252,K32006,Commonwealth Ave At Babcock St
+door-babck-ebbabcock,Babcock Street - Babcock St,2,252,K32006,Commonwealth Ave At Babcock St
+door-babck-wbagganis,"Babcock Street - Harry Agganis Way, Pleasant St",2,252,K32006,Commonwealth Ave At Babcock St
+door-babck-wbbabcock,Babcock Street - Babcock St,2,252,K32006,Commonwealth Ave At Babcock St
+958,Commonwealth Ave @ Babcock St,0,252,K32006,Commonwealth Ave At Babcock St
+959,1079 Commonwealth Ave,0,252,K32006,Commonwealth Ave At Babcock St
+70178,Brookline Hills,0,253,K32008,Tappan St at Brookline Hills MBTA
+70179,Brookline Hills,0,253,K32008,Tappan St at Brookline Hills MBTA
+door-brkhl-bhs,Brookline Hills - Tappan St (West),2,253,K32008,Tappan St at Brookline Hills MBTA
+door-brkhl-cypress,Brookline Hills - Tappan St (East),2,253,K32008,Tappan St at Brookline Hills MBTA
+1531,Cypress St @ Rice St,0,254,K32009,Cypress St at Clark Playground
+1532,Cypress St @ Walnut St,0,254,K32009,Cypress St at Clark Playground
+1548,Cypress St @ Milton Rd,0,254,K32009,Cypress St at Clark Playground
+1549,Cypress St @ Walnut St,0,254,K32009,Cypress St at Clark Playground
+1550,Cypress St @ Kendall St,0,254,K32009,Cypress St at Clark Playground
+1529,High St @ Oakland Rd,0,255,K32010,High St at Cypress St
+15291,High St @ Cypress St,0,255,K32010,High St at Cypress St
+1530,Cypress St opp Henry St,0,255,K32010,High St at Cypress St
+1551,Cypress St @ Franklin St,0,255,K32010,High St at Cypress St
+1552,High St @ Cypress St,0,255,K32010,High St at Cypress St
+1553,High St @ Highland Rd,0,255,K32010,High St at Cypress St
+1309,Harvard St @ Marion St,0,256,K32012,Marion St at Harvard St
+1371,Harvard St opp Vernon St,0,256,K32012,Marion St at Harvard St
+1372,Harvard St @ Beacon St,0,256,K32012,Marion St at Harvard St
+1276,Washington St @ Beacon St,0,257,K32011,Washington Sq
+1277,684 Washington St,0,257,K32011,Washington Sq
+1292,Washington St @ Beacon St,0,257,K32011,Washington Sq
+70229,Washington Square,0,257,K32011,Washington Sq
+70230,Washington Square,0,257,K32011,Washington Sq
+70215,Kent Street,0,258,K32015,1200 Beacon St
+70216,Kent Street,0,258,K32015,1200 Beacon St
+70217,Saint Paul Street,0,258,K32015,1200 Beacon St
+1306,Harvard St @ Shailer St,0,259,K32017,Harvard St and Stedman St
+1373,Harvard St @ Stedman St,0,259,K32017,Harvard St and Stedman St
+2517,Hampshire St @ Clark St,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+2518,Hampshire St @ Portland St,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+2521,Hampshire St @ Cardinal Medeiros Ave,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+2522,Hampshire St @ Webster Ave,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+24485,Broadway opp Hampshire St,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+24486,Broadway @ Hampshire St,0,260,M32002,One Kendall Square at Hampshire St / Portland St
+2231,Main St @ Kendall Station - Red Line,0,261,M32004,Kendall T
+70071,Kendall/MIT,0,261,M32004,Kendall T
+70072,Kendall/MIT,0,261,M32004,Kendall T
+door-knncl-nbmain,"Kendall/MIT - Main St, Buses, Cambridge Center",2,261,M32004,Kendall T
+door-knncl-nbsecond,"Kendall/MIT - Main St, Third St",2,261,M32004,Kendall T
+door-knncl-sbelevator,"Kendall/MIT - Elevator, Buses, Main St, Third St, Carleton St",2,261,M32004,Kendall T
+door-knncl-sbmain,"Kendall/MIT - Buses, Main St, Third St",2,261,M32004,Kendall T
+door-knncl-sbsecond,"Kendall/MIT - Main St, Third St",2,261,M32004,Kendall T
+97,77 Massachusetts Ave,0,263,M32006,MIT at Mass Ave / Amherst St
+75,84 Massachusetts Ave,0,263,M32006,MIT at Mass Ave / Amherst St
+1406,Cambridge St @ Norfolk St,0,264,M32007,Cambridge St - at Columbia St / Webster Ave
+2525,Columbia St @ Cambridge St,0,264,M32007,Cambridge St - at Columbia St / Webster Ave
+1422,Cambridge St @ Windsor St,0,264,M32007,Cambridge St - at Columbia St / Webster Ave
+1423,Cambridge St @ Norfolk St,0,264,M32007,Cambridge St - at Columbia St / Webster Ave
+11408,Cambridge St @ Columbia St,0,264,M32007,Cambridge St - at Columbia St / Webster Ave
+101,Massachusetts Ave @ Sidney St,0,265,M32009,Lafayette Square at Mass Ave / Main St / Columbia St
+73,Massachusetts Ave @ Sidney St,0,265,M32009,Lafayette Square at Mass Ave / Main St / Columbia St
+1816,Brookline St @ Green St,0,265,M32009,Lafayette Square at Mass Ave / Main St / Columbia St
+1060,Magazine St @ Green St,0,266,M32011,Central Square at Mass Ave / Essex St
+1123,Green St @ Magazine St,0,266,M32011,Central Square at Mass Ave / Essex St
+70069,Central,0,266,M32011,Central Square at Mass Ave / Essex St
+70070,Central,0,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-essex,Central - Essex St,2,266,M32011,Central Square at Mass Ave / Essex St
+72,Massachusetts Ave @ Pearl St,0,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-obmass,Central - Mass Ave,2,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-ibmass,Central - Mass Ave,2,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-pearl,Central - Pearl St,2,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-prospect,Central - Prospect St,2,266,M32011,Central Square at Mass Ave / Essex St
+door-cntsq-western,Central - Western Ave,2,266,M32011,Central Square at Mass Ave / Essex St
+2755,Green St @ Pearl St,0,266,M32011,Central Square at Mass Ave / Essex St
+1817,Pearl St @ Franklin St,0,266,M32011,Central Square at Mass Ave / Essex St
+102,Massachusetts Ave @ Prospect St,0,266,M32011,Central Square at Mass Ave / Essex St
+2443,Prospect St @ Bishop Allen Dr,0,266,M32011,Central Square at Mass Ave / Essex St
+2444,Western Ave @ Green St,0,266,M32011,Central Square at Mass Ave / Essex St
+2446,Prospect St @ Bishop Allen Dr,0,266,M32011,Central Square at Mass Ave / Essex St
+1059,River St @ Green St,0,266,M32011,Central Square at Mass Ave / Essex St
+104,Massachusetts Ave @ Inman St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+1060,Magazine St @ Green St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+1123,Green St @ Magazine St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+70069,Central,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+70070,Central,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+door-cntsq-ibmass,Central - Mass Ave,2,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+door-cntsq-obmass,Central - Mass Ave,2,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+door-cntsq-prospect,Central - Prospect St,2,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+door-cntsq-western,Central - Western Ave,2,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+102,Massachusetts Ave @ Prospect St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+2444,Western Ave @ Green St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+71,Massachusetts Ave opp Inman St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+1059,River St @ Green St,0,267,M32012,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St
+1401,Cambridge St @ Trowbridge St,0,268,M32013,Cambridge Main Library at Broadway / Trowbridge St
+2217,454 Broadway,0,268,M32013,Cambridge Main Library at Broadway / Trowbridge St
+2218,Broadway @ Ellery St,0,268,M32013,Cambridge Main Library at Broadway / Trowbridge St
+1431,Broadway @ Felton St,0,268,M32013,Cambridge Main Library at Broadway / Trowbridge St
+2226,Broadway @ Ellery St,0,268,M32013,Cambridge Main Library at Broadway / Trowbridge St
+door-harsq-brattle,Harvard - Brattle Square,2,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+32549,Eliot St @ Bennett St,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+25641,JFK St @ Eliot St,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+2565,16 Eliot St,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+2020,Mt Auburn St @ Story St,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+2074,Mt Auburn St @ University Rd,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+2550,JFK St @ Eliot St,0,270,M32016,Harvard Kennedy School at Bennett St / Eliot St
+70067,Harvard,0,271,M32018,Harvard Square at Mass Ave/ Dunster
+door-harsq-brattle,Harvard - Brattle Square,2,271,M32018,Harvard Square at Mass Ave/ Dunster
+door-harsq-church,"Harvard - Church St, Harvard Square",2,271,M32018,Harvard Square at Mass Ave/ Dunster
+door-harsq-square,Harvard - Harvard Square,2,271,M32018,Harvard Square at Mass Ave/ Dunster
+door-harsq-yard,"Harvard - Church St, Harvard Yard",2,271,M32018,Harvard Square at Mass Ave/ Dunster
+110,Massachusetts Ave @ Holyoke St,0,271,M32018,Harvard Square at Mass Ave/ Dunster
+2168,Massachusetts Ave @ Johnston Gate,0,271,M32018,Harvard Square at Mass Ave/ Dunster
+2310,Massachusetts Ave opp Waterhouse St,0,273,M32020,Harvard Law School at Mass Ave / Jarvis St
+12614,Waterhouse St @ Massachusetts Ave,0,273,M32020,Harvard Law School at Mass Ave / Jarvis St
+2307,Massachusetts Ave @ Waterhouse St,0,273,M32020,Harvard Law School at Mass Ave / Jarvis St
+1400,Cambridge St @ Prescott St,0,274,M32021,Harvard University Gund Hall at Quincy St / Kirkland St
+2567,Quincy St @ Kirkland St,0,274,M32021,Harvard University Gund Hall at Quincy St / Kirkland St
+2568,Kirkland St @ Sumner Rd,0,274,M32021,Harvard University Gund Hall at Quincy St / Kirkland St
+2166,Quincy St @ Broadway opp Fogg Museum,0,274,M32021,Harvard University Gund Hall at Quincy St / Kirkland St
+2548,Kirkland St @ Kirkland Place,0,274,M32021,Harvard University Gund Hall at Quincy St / Kirkland St
+2172,Concord Ave @ Chauncy St,0,276,M32024,Harvard University Radcliffe Quadrangle at Shepard St / Garden St
+2321,Massachusetts Ave @ Shea Rd,0,277,M32025,Linear Park - Mass. Ave at Cameron Ave
+2270,Massachusetts Ave @ Cedar St,0,277,M32025,Linear Park - Mass. Ave at Cameron Ave
+2271,Massachusetts Ave @ Cameron Ave,0,277,M32025,Linear Park - Mass. Ave at Cameron Ave
+2220,Broadway @ Crawford St,0,278,M32026,359 Broadway - Broadway at Fayette Street
+2221,Broadway @ Lee St,0,278,M32026,359 Broadway - Broadway at Fayette Street
+2222,Broadway @ Inman St,0,278,M32026,359 Broadway - Broadway at Fayette Street
+2223,Broadway @ Inman St,0,278,M32026,359 Broadway - Broadway at Fayette Street
+2224,Broadway @ Fayette St,0,278,M32026,359 Broadway - Broadway at Fayette Street
+2225,Broadway @ Highland Ave,0,278,M32026,359 Broadway - Broadway at Fayette Street
+door-portr-elevator985,Porter - Somerville Ave (Elevator),2,280,M32029,Porter Square Station
+door-portr-escal,"Porter - Somerville Ave, Massachusetts Ave",2,280,M32029,Porter Square Station
+2430,Somerville Ave @ Massachusetts Ave,0,280,M32029,Porter Square Station
+2460,Somerville Ave @ White St (Porter Sq),0,280,M32029,Porter Square Station
+12301,Massachusetts Ave @ Upland Rd,0,280,M32029,Porter Square Station
+23151,Massachusetts Ave @ Porter Red Line Sta,0,280,M32029,Porter Square Station
+2316,Massachusetts Ave @ Davenport St,0,280,M32029,Porter Square Station
+70065,Porter,0,280,M32029,Porter Square Station
+70066,Porter,0,280,M32029,Porter Square Station
+FR-0034,Porter,0,280,M32029,Porter Square Station
+FR-0034-01,Porter,0,280,M32029,Porter Square Station
+FR-0034-02,Porter,0,280,M32029,Porter Square Station
+door-portr-cracross,"Porter - Massachusetts Ave (West), Buses",2,280,M32029,Porter Square Station
+door-portr-crtransfer,"Porter - Massachusetts Ave (East), Buses",2,280,M32029,Porter Square Station
+door-portr-elevator982,"Porter - Somerville Ave, Massachusetts Ave (Elevator)",2,280,M32029,Porter Square Station
+door-alfcl-russell,Alewife - Russell Field,2,283,M32033,Alewife Station at Russell Field
+70061,Alewife,0,283,M32033,Alewife Station at Russell Field
+2462,Rindge Ave @ Reed St,0,286,M32036,Rindge Avenue - O'Neill Library
+2428,Rindge Ave @ Middlesex St,0,286,M32036,Rindge Avenue - O'Neill Library
+24281,Rindge Ave @ Haskell St,0,286,M32036,Rindge Avenue - O'Neill Library
+24610,Rindge Ave @ Hollis St,0,286,M32036,Rindge Avenue - O'Neill Library
+2231,Main St @ Kendall Station - Red Line,0,287,M32037,Ames St at Main St
+70071,Kendall/MIT,0,287,M32037,Ames St at Main St
+70072,Kendall/MIT,0,287,M32037,Ames St at Main St
+door-knncl-sbcarleton,Kendall/MIT - Carleton St,2,287,M32037,Ames St at Main St
+door-knncl-sbelevator,"Kendall/MIT - Elevator, Buses, Main St, Third St, Carleton St",2,287,M32037,Ames St at Main St
+door-knncl-sbmain,"Kendall/MIT - Buses, Main St, Third St",2,287,M32037,Ames St at Main St
+12231,Ames St @ Broadway,0,287,M32037,Ames St at Main St
+34579,Ames St @ Main St,0,287,M32037,Ames St at Main St
+66,Mt Auburn St @ DeWolfe St,0,288,M32038,Harvard University River Houses at DeWolfe St / Cowperthwaite St
+door-portr-elevator985,Porter - Somerville Ave (Elevator),2,289,M32039,Lesley University
+door-portr-escal,"Porter - Somerville Ave, Massachusetts Ave",2,289,M32039,Lesley University
+2430,Somerville Ave @ Massachusetts Ave,0,289,M32039,Lesley University
+2460,Somerville Ave @ White St (Porter Sq),0,289,M32039,Lesley University
+12301,Massachusetts Ave @ Upland Rd,0,289,M32039,Lesley University
+2314,Massachusetts Ave @ Exeter Park,0,289,M32039,Lesley University
+23151,Massachusetts Ave @ Porter Red Line Sta,0,289,M32039,Lesley University
+70065,Porter,0,289,M32039,Lesley University
+70066,Porter,0,289,M32039,Lesley University
+FR-0034,Porter,0,289,M32039,Lesley University
+FR-0034-01,Porter,0,289,M32039,Lesley University
+FR-0034-02,Porter,0,289,M32039,Lesley University
+door-portr-cracross,"Porter - Massachusetts Ave (West), Buses",2,289,M32039,Lesley University
+door-portr-crtransfer,"Porter - Massachusetts Ave (East), Buses",2,289,M32039,Lesley University
+door-portr-elevator982,"Porter - Somerville Ave, Massachusetts Ave (Elevator)",2,289,M32039,Lesley University
+73,Massachusetts Ave @ Sidney St,0,290,M32040,University Park
+730,Franklin St @ Sidney St,0,290,M32040,University Park
+1816,Brookline St @ Green St,0,290,M32040,University Park
+101,Massachusetts Ave @ Sidney St,0,290,M32040,University Park
+2070,Mt Auburn St @ Mt Auburn Hospital,0,292,M32043,Mt Auburn
+2071,Mt Auburn St opp Sparks St,0,292,M32043,Mt Auburn
+2023,Mt Auburn St @ Sparks St,0,292,M32043,Mt Auburn
+2025,Mt Auburn St @ Longfellow Rd,0,292,M32043,Mt Auburn
+2085,Huron Ave @ Appleton St,0,293,M32044,Huron Ave At Vassal Lane
+2090,Huron Ave @ Appleton St,0,293,M32044,Huron Ave At Vassal Lane
+2167,Quincy St @ Harvard St,0,298,M32050,Verizon Innovation Hub 10 Ware Street
+1431,Broadway @ Felton St,0,298,M32050,Verizon Innovation Hub 10 Ware Street
+2217,454 Broadway,0,298,M32050,Verizon Innovation Hub 10 Ware Street
+24487,Broadway @ Windsor St,0,301,M32055,Harvard St at Greene-Rose Heritage Park
+24484,Broadway @ Windsor St,0,301,M32055,Harvard St at Greene-Rose Heritage Park
+2299,Massachusetts Ave @ Walden St,0,302,M32056,Mass Ave at Hadley/Walden
+2300,Massachusetts Ave opp Beech St,0,302,M32056,Mass Ave at Hadley/Walden
+2318,Massachusetts Ave opp Walden St,0,302,M32056,Mass Ave at Hadley/Walden
+2179,Concord Ave @ Alpine St,0,303,M32057,Vassal Lane at Tobin/VLUS
+2180,Concord Ave @ Birch St,0,303,M32057,Vassal Lane at Tobin/VLUS
+2155,Concord Ave opp Fern St,0,303,M32057,Vassal Lane at Tobin/VLUS
+2156,Concord Ave @ Alpine St,0,303,M32057,Vassal Lane at Tobin/VLUS
+12231,Ames St @ Broadway,0,305,M32059,Ames St at Broadway
+2228,Broadway @ Galileo Way,0,305,M32059,Ames St at Broadway
+34579,Ames St @ Main St,0,305,M32059,Ames St at Broadway
+12145,Fresh Pond Golf Course,0,306,M32060,700 Huron Ave
+12147,700 Huron Ave,0,306,M32060,700 Huron Ave
+11771,Vassar St @ Massachusetts Ave,0,307,M32061,Mass Ave at Albany St
+74,Massachusetts Ave @ Albany St,0,307,M32061,Mass Ave at Albany St
+99,Massachusetts Ave @ Albany St,0,307,M32061,Mass Ave at Albany St
+14031,Cambridge St @ Fayette St,0,308,M32062,Inman Square at Springfield St.
+1404,Cambridge St @ Hampshire St,0,308,M32062,Inman Square at Springfield St.
+2451,Hampshire St @ Cambridge St,0,308,M32062,Inman Square at Springfield St.
+2439,Hampshire St @ Inman St,0,308,M32062,Inman Square at Springfield St.
+1425,Cambridge St @ Springfield St,0,308,M32062,Inman Square at Springfield St.
+24488,Broadway @ Columbia St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+24489,Broadway @ Norfolk St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+24490,Broadway @ Prospect St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+2441,Prospect St @ Broadway,0,309,M32063,Sennott Park Broadway at Norfolk Street
+2448,Prospect St @ Broadway,0,309,M32063,Sennott Park Broadway at Norfolk Street
+24481,Broadway @ Prospect St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+24482,Broadway @ Norfolk St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+24483,Broadway @ Columbia St,0,309,M32063,Sennott Park Broadway at Norfolk Street
+1421,Cambridge St @ Berkshire St,0,313,M32067,Berkshire Street at Cambridge Street
+11410,Cambridge St @ Max Ave,0,313,M32067,Berkshire Street at Cambridge Street
+1420,Cambridge St @ Lambert St,0,313,M32067,Berkshire Street at Cambridge Street
+1409,Cambridge St @ Berkshire St,0,313,M32067,Berkshire Street at Cambridge Street
+70071,Kendall/MIT,0,316,M32071,MIT Hayward St at Amherst St
+70072,Kendall/MIT,0,316,M32071,MIT Hayward St at Amherst St
+door-knncl-nbsecond,"Kendall/MIT - Main St, Third St",2,316,M32071,MIT Hayward St at Amherst St
+door-knncl-sbcarleton,Kendall/MIT - Carleton St,2,316,M32071,MIT Hayward St at Amherst St
+door-knncl-sbsecond,"Kendall/MIT - Main St, Third St",2,316,M32071,MIT Hayward St at Amherst St
+2228,Broadway @ Galileo Way,0,317,M32072,Galileo Galilei Way at Main Street
+34579,Ames St @ Main St,0,317,M32072,Galileo Galilei Way at Main Street
+107,Massachusetts Ave @ Dana St,0,318,M32073,955 Mass Ave
+68,Massachusetts Ave @ Bay St,0,318,M32073,955 Mass Ave
+69,Massachusetts Ave opp Lee St,0,318,M32073,955 Mass Ave
+106,Massachusetts Ave @ Hancock St,0,318,M32073,955 Mass Ave
+2149,Concord Ave @ Spinelli Pl,0,319,M32074,Concord Ave at Spinelli Place
+2186,Concord Ave @ Spinelli Pl,0,319,M32074,Concord Ave at Spinelli Place
+2187,799 Concord Ave,0,319,M32074,Concord Ave at Spinelli Place
+1812,Brookline St @ Putnam Ave,0,321,M32076,Old Morse Park at Putnam Ave
+11767,Pearl St @ Putnam Ave,0,321,M32076,Old Morse Park at Putnam Ave
+70500,Lechmere,0,322,M32077,Cambridge Crossing at North First Street
+70501,Lechmere,0,322,M32077,Cambridge Crossing at North First Street
+70502,Lechmere,0,322,M32077,Cambridge Crossing at North First Street
+door-lech-busway,Lechmere - Busway,2,322,M32077,Cambridge Crossing at North First Street
+door-lech-first,Lechmere - North First St,2,322,M32077,Cambridge Crossing at North First Street
+door-lech-firstracks,"Lechmere - Busway, North First St",2,322,M32077,Cambridge Crossing at North First Street
+door-lech-obrien,Lechmere - O'Brien Hwy,2,322,M32077,Cambridge Crossing at North First Street
+101,Massachusetts Ave @ Sidney St,0,328,M32085,Mass Ave/Lafayette Square
+73,Massachusetts Ave @ Sidney St,0,328,M32085,Mass Ave/Lafayette Square
+1816,Brookline St @ Green St,0,328,M32085,Mass Ave/Lafayette Square
+70500,Lechmere,0,329,M32086,Morgan Ave at North First St
+70501,Lechmere,0,329,M32086,Morgan Ave at North First St
+70502,Lechmere,0,329,M32086,Morgan Ave at North First St
+door-lech-busway,Lechmere - Busway,2,329,M32086,Morgan Ave at North First St
+door-lech-first,Lechmere - North First St,2,329,M32086,Morgan Ave at North First St
+door-lech-firstracks,"Lechmere - Busway, North First St",2,329,M32086,Morgan Ave at North First St
+door-lech-obrien,Lechmere - O'Brien Hwy,2,329,M32086,Morgan Ave at North First St
+70067,Harvard,0,330,M32087,Church St
+door-harsq-brattle,Harvard - Brattle Square,2,330,M32087,Church St
+door-harsq-church,"Harvard - Church St, Harvard Square",2,330,M32087,Church St
+door-harsq-square,Harvard - Harvard Square,2,330,M32087,Church St
+22549,Harvard Sq @ Garden St - Dawes Island,0,330,M32087,Church St
+door-harsq-yard,"Harvard - Church St, Harvard Yard",2,330,M32087,Church St
+12231,Ames St @ Broadway,0,332,Z32998,Broadway at Kittie Knox Bike Path
+2228,Broadway @ Galileo Way,0,332,Z32998,Broadway at Kittie Knox Bike Path
+34579,Ames St @ Main St,0,332,Z32998,Broadway at Kittie Knox Bike Path
+1056,River St @ Fairmont St,0,333,M32089,Moore Youth Center
+1057,River St @ Kelly Rd,0,333,M32089,Moore Youth Center
+1062,Western Ave @ Howard St,0,333,M32089,Moore Youth Center
+1416,Cambridge St @ Third St,0,334,M32090,O'Brien Highway at First Street
+70500,Lechmere,0,334,M32090,O'Brien Highway at First Street
+70501,Lechmere,0,334,M32090,O'Brien Highway at First Street
+70502,Lechmere,0,334,M32090,O'Brien Highway at First Street
+door-lech-busway,Lechmere - Busway,2,334,M32090,O'Brien Highway at First Street
+door-lech-first,Lechmere - North First St,2,334,M32090,O'Brien Highway at First Street
+door-lech-firstracks,"Lechmere - Busway, North First St",2,334,M32090,O'Brien Highway at First Street
+door-lech-obrien,Lechmere - O'Brien Hwy,2,334,M32090,O'Brien Highway at First Street
+1416,Cambridge St @ Third St,0,336,M32001,Lechmere Station at Cambridge St / First St
+70500,Lechmere,0,336,M32001,Lechmere Station at Cambridge St / First St
+70501,Lechmere,0,336,M32001,Lechmere Station at Cambridge St / First St
+70502,Lechmere,0,336,M32001,Lechmere Station at Cambridge St / First St
+door-lech-busway,Lechmere - Busway,2,336,M32001,Lechmere Station at Cambridge St / First St
+door-lech-first,Lechmere - North First St,2,336,M32001,Lechmere Station at Cambridge St / First St
+door-lech-firstracks,"Lechmere - Busway, North First St",2,336,M32001,Lechmere Station at Cambridge St / First St
+door-lech-obrien,Lechmere - O'Brien Hwy,2,336,M32001,Lechmere Station at Cambridge St / First St
+5619,125 Washington Ave opp Orange St,0,337,H32001,Cary Square
+5620,Washington Ave @ Cary Ave,0,337,H32001,Cary Square
+5621,Washington Ave @ Spruce St,0,337,H32001,Cary Square
+5600,Washington Ave @ Spruce St,0,337,H32001,Cary Square
+5602,Washington Ave @ Bloomingdale St,0,337,H32001,Cary Square
+5615,Hawthorne St @ Broadway,0,338,H32002,Bellingham Square
+5617,Broadway @ Shurtleff St,0,338,H32002,Bellingham Square
+56170,City Hall Ave @ Broadway,0,338,H32002,Bellingham Square
+5750,Broadway @ Gerrish Ave,0,338,H32002,Bellingham Square
+5605,Washington Ave @ Broadway,0,338,H32002,Bellingham Square
+5609,Washington Ave @ Chestnut St,0,338,H32002,Bellingham Square
+46170,Broadway @ City Hall Ave,0,338,H32002,Bellingham Square
+5612,Park St @ Williams St,0,339,H32003,Chelsea Square
+5613,Park St @ Cross St,0,339,H32003,Chelsea Square
+5749,Pearl St @ Essex St,0,339,H32003,Chelsea Square
+5653,Broadway opp Cross St,0,339,H32003,Chelsea Square
+5728,Pearl St opp Essex St,0,339,H32003,Chelsea Square
+5607,Third St @ Chestnut St,0,339,H32003,Chelsea Square
+5617,Broadway @ Shurtleff St,0,340,H32004,Broadway at Gerrish Ave
+56170,City Hall Ave @ Broadway,0,340,H32004,Broadway at Gerrish Ave
+5750,Broadway @ Gerrish Ave,0,340,H32004,Broadway at Gerrish Ave
+5751,Broadway @ Crescent Ave,0,340,H32004,Broadway at Gerrish Ave
+5725,Broadway @ Crescent Ave,0,340,H32004,Broadway at Gerrish Ave
+5726,Broadway opp Gerrish Ave,0,340,H32004,Broadway at Gerrish Ave
+46170,Broadway @ City Hall Ave,0,340,H32004,Broadway at Gerrish Ave
+15054,100 Everett Ave,0,341,H32005,Chelsea Station
+74630,Chelsea,0,341,H32005,Chelsea Station
+74631,Chelsea,0,341,H32005,Chelsea Station
+ER-0042-01,Chelsea,0,341,H32005,Chelsea Station
+door-chels-crnorthever,"Chelsea - Everett Ave, Silver Line - SL3",2,341,H32005,Chelsea Station
+door-chels-mall,"Chelsea - Buses 112, 114",2,341,H32005,Chelsea Station
+door-chels-sldropoff,Chelsea - Everett Ave,2,341,H32005,Chelsea Station
+door-chels-slsstat,Chelsea - Everett Ave,2,341,H32005,Chelsea Station
+5684,Everett Ave @ Maple St,0,341,H32005,Chelsea Station
+5045,Market Basket,0,341,H32005,Chelsea Station
+5647,Everett Ave @ Vale St,0,341,H32005,Chelsea Station
+5648,Spruce St @ Everett Ave,0,341,H32005,Chelsea Station
+5753,Broadway @ Eleanor St,0,342,H32006,855 Broadway
+5754,Broadway @ Green St,0,342,H32006,855 Broadway
+5755,Broadway @ Webster Ave,0,342,H32006,855 Broadway
+5720,Broadway @ Webster Ave,0,342,H32006,855 Broadway
+5721,Broadway opp Green St,0,342,H32006,855 Broadway
+5722,Broadway @ Eleanor St,0,342,H32006,855 Broadway
+5693,Chelsea St @ Plumer St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5695,Broadway @ Everett Sq,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5510,Broadway @ Mansfield St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5559,Broadway opp Second St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5637,Chelsea St @ Victoria St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5495,Broadway @ Church St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5496,Broadway @ Norwood St,0,344,V32003,Everett Square (Broadway at Chelsea St)
+5498,Broadway opp Beacham St,0,345,V32004,Broadway at Lynde St
+5499,Broadway opp Thorndike St,0,345,V32004,Broadway at Lynde St
+5507,Broadway @ Thorndike St,0,345,V32004,Broadway at Lynde St
+5513,Broadway @ High St,0,348,V32008,Broadway at Maple St
+5514,Broadway @ Lexington St,0,348,V32008,Broadway at Maple St
+15492,Broadway @ Maple Ave,0,348,V32008,Broadway at Maple St
+5497,Broadway @ Bowdoin St,0,349,V32011,Broadway at Beacham St
+5498,Broadway opp Beacham St,0,349,V32011,Broadway at Beacham St
+5499,Broadway opp Thorndike St,0,349,V32011,Broadway at Beacham St
+5507,Broadway @ Thorndike St,0,349,V32011,Broadway at Beacham St
+5508,Broadway @ Langdon St,0,349,V32011,Broadway at Beacham St
+5558,Ferry St @ Chelsea St,0,352,V32016,Chelsea St at Vine St
+5640,Chelsea St @ S Ferry St,0,352,V32016,Chelsea St at Vine St
+5642,221 Chelsea St,0,352,V32016,Chelsea St at Vine St
+15566,19 Ferry St,0,352,V32016,Chelsea St at Vine St
+5689,Chelsea St @ Irving St,0,352,V32016,Chelsea St at Vine St
+5485,Broadway @ Kenwood Rd,0,353,V32009,Pope John High School
+5483,Broadway @ Shute St,0,353,V32009,Pope John High School
+5484,Broadway @ Cameron St,0,353,V32009,Pope John High School
+5521,Broadway @ Lynn St,0,353,V32009,Pope John High School
+5522,Broadway @ Shute St,0,353,V32009,Pope John High School
+door-mlmnl-ramp,"Malden Center - Commercial St, Malden Government Center (ramp)",2,354,G32001,Malden Center T Station
+5327,Malden Center,0,354,G32001,Malden Center T Station
+53270,Malden Center,0,354,G32001,Malden Center T Station
+70034,Malden Center,0,354,G32001,Malden Center T Station
+70035,Malden Center,0,354,G32001,Malden Center T Station
+WR-0045-S,Malden Center,0,354,G32001,Malden Center T Station
+door-mlmnl-commercial,"Malden Center - Commercial St, Malden Government Center",2,354,G32001,Malden Center T Station
+door-mlmnl-pleasant,"Malden Center - Summer St, Pleasant St",2,354,G32001,Malden Center T Station
+5373,310 Main St,0,355,G32002,Northern Strand at Main St
+5374,Main St @ Madison St,0,355,G32002,Northern Strand at Main St
+5454,Main St @ Eastern Ave,0,355,G32002,Northern Strand at Main St
+5365,Eastern Ave @ Main St,0,355,G32002,Northern Strand at Main St
+5366,Main St @ Centre St,0,355,G32002,Northern Strand at Main St
+5271,Wellington Station Busway,0,356,V32014,Wellington MBTA
+70032,Wellington,0,356,V32014,Wellington MBTA
+70033,Wellington,0,356,V32014,Wellington MBTA
+door-welln-busway,"Wellington - Buses, Parking Lot",2,356,V32014,Wellington MBTA
+5315,Main St @ Hancock Ave,0,357,F32001,Main St at Brooks Park
+5316,Main St opp George St,0,357,F32001,Main St at Brooks Park
+5034,George St @ Main St,0,357,F32001,Main St at Brooks Park
+5317,160 Main St,0,357,F32001,Main St at Brooks Park
+5040,George St @ Main St,0,357,F32001,Main St at Brooks Park
+5290,Main St @ Summer St,0,357,F32001,Main St at Brooks Park
+5291,Main St @ George St,0,357,F32001,Main St at Brooks Park
+5292,Main St @ Stearns Ave,0,357,F32001,Main St at Brooks Park
+5002,Salem St opp River St,0,358,F32002,Medford Sq - Riverside Ave at River St
+63241,37 Riverside Ave @ Medford Sq,0,358,F32002,Medford Sq - Riverside Ave at River St
+5031,Main St @ High St,0,358,F32002,Medford Sq - Riverside Ave at River St
+45002,Medford Sq @ City Hall Parking lot,0,358,F32002,Medford Sq - Riverside Ave at River St
+45003,City Hall Mall @ Salem St - Medford City Hall,0,358,F32002,Medford Sq - Riverside Ave at River St
+5298,Main St @ Medford St,0,359,F32003,Tufts Sq - Main St at Medford St
+5309,Main St @ Medford St,0,359,F32003,Tufts Sq - Main St at Medford St
+5310,Main St @ Mayberry Ave,0,359,F32003,Tufts Sq - Main St at Medford St
+49040,Riverside Ave @ Bradbury Ave,0,361,F32004,Harris Park
+9048,Middlesex Ave @ Third St,0,361,F32004,Harris Park
+49096,Riverside Ave @ Bradbury Ave,0,361,F32004,Harris Park
+5333,Salem St @ Fellsway Garage,0,362,F32005,Haines Square
+5264,Fellsway W @ Salem St,0,362,F32005,Haines Square
+5282,Salem St @ Grant Ave,0,362,F32005,Haines Square
+8307,Fellsway W @ Grant Ave,0,362,F32005,Haines Square
+8308,Salem St @ Fellsway W,0,362,F32005,Haines Square
+5325,Salem St @ Grant Ave,0,362,F32005,Haines Square
+8311,Fellsway W @ Salem St,0,362,F32005,Haines Square
+83111,Fellsway W @ Fells Ave,0,362,F32005,Haines Square
+2369,Boston Ave @ Harvard Ave,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+NHRML-0055,West Medford,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+16305,High St @ Johnson Ave,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+16316,High St @ Harvard Ave,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+6304,Playstead Rd @ Irving St - W Medford Sta,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+2417,Boston Ave @ Harvard Ave,0,364,F32007,West Medford Square (Bower St at Harvard Ave)
+8516,Centre St @ Church St,0,366,N32000,Centre St at Washington St
+8517,Centre St @ Church St,0,366,N32000,Centre St at Washington St
+19031,400 Centre St - West,0,366,N32000,Centre St at Washington St
+7644,Washington St @ Court St,0,367,N32001,Washington St at Crafts St
+7643,Washington St @ Craft St,0,367,N32001,Washington St at Crafts St
+76431,Washington St opp Crafts St,0,367,N32001,Washington St at Crafts St
+8186,Watertown St @ Chapel St,0,368,N32002,Nonantum Library
+8187,Watertown St @ Adams St,0,368,N32002,Nonantum Library
+7802,Adams St @ Watertown St,0,368,N32002,Nonantum Library
+7804,Chapel St @ Watertown St,0,368,N32002,Nonantum Library
+7856,Chapel St @ Watertown St,0,368,N32002,Nonantum Library
+8170,Watertown St @ Adams St,0,368,N32002,Nonantum Library
+8171,Watertown St @ Chapel St,0,368,N32002,Nonantum Library
+7650,Washington St @ Watertown St,0,369,N32005,West Newton
+7651,Washington St @ Cherry St,0,369,N32005,West Newton
+7625,Washington St @ Chestnut St,0,369,N32005,West Newton
+8504,Centre St @ Beacon St,0,370,N32008,Langley Lot
+8505,Centre St @ Langley Rd,0,370,N32008,Langley Lot
+70170,Newton Centre,0,370,N32008,Langley Lot
+70171,Newton Centre,0,370,N32008,Langley Lot
+door-newto-braeland,"Newton Centre - Braeland Ave, Langley Rd",2,370,N32008,Langley Lot
+door-newto-herrick,"Newton Centre - Union St, Herrick Rd",2,370,N32008,Langley Lot
+door-newto-langley,Newton Centre - Langley Rd,2,370,N32008,Langley Lot
+door-newto-uniones,Newton Centre - Union St (East stairs),2,370,N32008,Langley Lot
+door-newto-unionr,Newton Centre - Union St (Ramp),2,370,N32008,Langley Lot
+door-newto-unionws,Newton Centre - Union St (West stairs),2,370,N32008,Langley Lot
+8528,Centre St @ Beacon St,0,370,N32008,Langley Lot
+70168,Newton Highlands,0,371,N32010,Newton Highlands T
+70169,Newton Highlands,0,371,N32010,Newton Highlands T
+8155,Newton Highlands,0,371,N32010,Newton Highlands T
+8203,Newton Highlands,0,371,N32010,Newton Highlands T
+door-newtn-lake,"Newton Highlands - Lake Ave, Walnut St",2,371,N32010,Newton Highlands T
+door-newtn-walnut,"Newton Highlands - Walnut St, Station Ave, Buses",2,371,N32010,Newton Highlands T
+8204,69 Lincoln St,0,371,N32010,Newton Highlands T
+7806,California St @ Bridge St,0,372,N32011,California at Chapel
+7854,California St @ Bridge St,0,372,N32011,California at Chapel
+8200,Walnut St @ Beacon St,0,373,N32012,Beacon at Walnut
+81562,Walnut St @ Beacon St,0,373,N32012,Beacon at Walnut
+8160,Walnut St @ Homer St,0,374,N32013,Newton Library
+8197,Walnut St @ Homer St,0,374,N32013,Newton Library
+8166,Walnut St @ Newtonville Ave,0,375,N32014,Washington St at Walnut St
+7645,Washington St @ Walnut St,0,375,N32014,Washington St at Walnut St
+8167,Walnut St @ Washington St,0,375,N32014,Washington St at Walnut St
+82853,Walnut St @ Austin St,0,375,N32014,Washington St at Walnut St
+82851,Walnut St @ Page Rd,0,375,N32014,Washington St at Walnut St
+WML-0081-02,Newtonville,0,375,N32014,Washington St at Walnut St
+door-WML-0081-walnut,Newtonville - Walnut St,2,375,N32014,Washington St at Walnut St
+7631,Washington St @ Walnut St,0,375,N32014,Washington St at Walnut St
+65547,Commonwealth Ave @ Pamela Ct,0,376,N32015,Auburndale
+7832,Commonwealth Ave @ Melrose St,0,376,N32015,Auburndale
+7834,Lexington St @ Auburndale Ave,0,376,N32015,Auburndale
+78205,Lexington St @ Freeman St,0,376,N32015,Auburndale
+78211,Commonwealth Ave opp Pamela Ct,0,376,N32015,Auburndale
+7825,Commonwealth Ave @ Lexington St,0,376,N32015,Auburndale
+8507,Centre St @ Commonwealth Ave,0,377,N32018,Centre St at Commonwealth Ave
+8526,Centre St @ Commonwealth Ave,0,377,N32018,Centre St at Commonwealth Ave
+8525,Centre St @ Ward St,0,377,N32018,Centre St at Commonwealth Ave
+5760,Broadway @ Beach St,0,379,R32006,Revere City Hall
+5714,Broadway @ Yeamans St,0,379,R32006,Revere City Hall
+5761,Broadway @ Pleasant St,0,379,R32006,Revere City Hall
+5801,Beach St @ Wilson St,0,379,R32006,Revere City Hall
+70057,Revere Beach,0,380,R32002,Orr Sq (Shirley Ave)
+70058,Revere Beach,0,380,R32002,Orr Sq (Shirley Ave)
+door-rbmnl-beach,Revere Beach - Beach St,2,380,R32002,Orr Sq (Shirley Ave)
+door-rbmnl-main,"Revere Beach - Ocean Ave, Shirley Ave",2,380,R32002,Orr Sq (Shirley Ave)
+door-rbmnl-ocean,Revere Beach - 300 Ocean Ave,2,380,R32002,Orr Sq (Shirley Ave)
+door-rbmnl-shirley,Revere Beach - Shirley Ave,2,380,R32002,Orr Sq (Shirley Ave)
+9070057,Revere Beach - Beach St opp Kimball Ave,0,380,R32002,Orr Sq (Shirley Ave)
+5797,Beach St @ Walnut Ave,0,381,R32001,Sumner St at Shirley Ave
+4717,Beach St @ Shirley Ave - Bell Circle,0,381,R32001,Sumner St at Shirley Ave
+4733,Beach St @ Upham St - Bell Circle,0,381,R32001,Sumner St at Shirley Ave
+16102,Congress St opp Shetland Pk,0,384,T32003,Shetland Park - Congress at Peabody St
+6102,Congress St @ Shetland Park Industrial Park,0,384,T32003,Shetland Park - Congress at Peabody St
+6175,Lafayette St @ Willow Ave,0,385,T32006,Lafayette at Leach St
+6176,Lafayette St @ Leach St,0,385,T32006,Lafayette at Leach St
+6177,Lafayette St @ Saltonstall Pkwy,0,385,T32006,Lafayette at Leach St
+6108,Lafayette St @ Hancock St,0,385,T32006,Lafayette at Leach St
+6109,Lafayette St @ Holly St,0,385,T32006,Lafayette at Leach St
+6110,Lafayette St @ Laurel St,0,385,T32006,Lafayette at Leach St
+6170,Loring Ave @ Rainbow Terr,0,386,T32007,Salem State University - Bike Path at Loring Ave
+6116,Loring Ave opp Raymond Rd,0,386,T32007,Salem State University - Bike Path at Loring Ave
+6115,Loring Ave opp Rainbow Terr,0,386,T32007,Salem State University - Bike Path at Loring Ave
+6168,Loring Ave opp Jefferson Ave,0,386,T32007,Salem State University - Bike Path at Loring Ave
+6169,Loring Ave @ Raymond Rd,0,386,T32007,Salem State University - Bike Path at Loring Ave
+7150,Hawthorne Blvd @ Derby St,0,387,T32008,Hawthorne Boulevard
+7154,Congress St @ Derby St,0,387,T32008,Hawthorne Boulevard
+7155,Congress St @ Derby St,0,387,T32008,Hawthorne Boulevard
+17144,Hawthorne Blvd @ Essex St,0,387,T32008,Hawthorne Boulevard
+17153,Hawthorne Blvd @ Derby St,0,387,T32008,Hawthorne Boulevard
+17154,Hawthorne Blvd @ Washington Sq S,0,387,T32008,Hawthorne Boulevard
+6115,Loring Ave opp Rainbow Terr,0,388,T32009,Salem State University - North Campus
+6170,Loring Ave @ Rainbow Terr,0,388,T32009,Salem State University - North Campus
+16170,Loring Ave @ Salem State University,0,388,T32009,Salem State University - North Campus
+4458,Essex St opp Warren St,0,389,T32011,Essex St at Dalton Parkway
+4555,Essex St @ Warren St,0,389,T32011,Essex St at Dalton Parkway
+4669,North St opp Nursery St,0,393,T32015,North St at Liberty Hill Ave
+4670,North St @ Cressey Ave,0,393,T32015,North St at Liberty Hill Ave
+4671,North St @ Symonds Ave,0,393,T32015,North St at Liberty Hill Ave
+4672,North St @ School St,0,393,T32015,North St at Liberty Hill Ave
+4603,North St @ Orne St,0,393,T32015,North St at Liberty Hill Ave
+4604,North St @ Liberty Hill Ave,0,393,T32015,North St at Liberty Hill Ave
+4605,North St @ Garden Terr,0,393,T32015,North St at Liberty Hill Ave
+6126,Loring Ave @ Vinnin St,0,394,T32017,Vinnin Square
+6125,Loring Ave @ Cedar Ave,0,394,T32017,Vinnin Square
+6157,Loring Ave @ Vinnin St,0,394,T32017,Vinnin Square
+6158,Loring Ave @ Maple Ave,0,394,T32017,Vinnin Square
+7142,Bridge St @ Saunders St,0,395,T32016,Bridge Street Neck
+17156,Winter St @ Bridge St,0,395,T32016,Bridge Street Neck
+17142,Winter St @ Bridge St,0,395,T32016,Bridge Street Neck
+17153,Hawthorne Blvd @ Derby St,0,396,T32018,Derby Street
+7150,Hawthorne Blvd @ Derby St,0,396,T32018,Derby Street
+7154,Congress St @ Derby St,0,396,T32018,Derby Street
+7155,Congress St @ Derby St,0,396,T32018,Derby Street
+2686,Highland Ave @ Vinal Ave,0,397,S32001,Somerville City Hall
+2684,Highland Ave @ School St,0,397,S32001,Somerville City Hall
+2662,75 Highland Ave opp Putnam St,0,397,S32001,Somerville City Hall
+2664,Highland Ave @ School St,0,397,S32001,Somerville City Hall
+2510,Somerville Ave @ Union Square,0,398,S32002,Union Square - Somerville
+2512,25 Webster Ave @ Newton St,0,398,S32002,Union Square - Somerville
+2597,Somerville Ave opp Stone Ave,0,398,S32002,Union Square - Somerville
+25713,Washington St @ Kingman Rd,0,398,S32002,Union Square - Somerville
+2612,Somerville Ave @ Stone Ave,0,398,S32002,Union Square - Somerville
+2613,Washington St @ Webster Ave,0,398,S32002,Union Square - Somerville
+26131,Bow St @ Warren Ave,0,398,S32002,Union Square - Somerville
+2531,Prospect St @ Bennett Ct,0,398,S32002,Union Square - Somerville
+2454,Beacon St @ Calvin St,0,399,S32003,Beacon St at Washington / Kirkland
+2455,Beacon St @ Washington St,0,399,S32003,Beacon St at Washington / Kirkland
+2457,Beacon St @ Park St,0,399,S32003,Beacon St at Washington / Kirkland
+2433,Park St @ Beacon St,0,399,S32003,Beacon St at Washington / Kirkland
+2435,Beacon St @ Washington St,0,399,S32003,Beacon St at Washington / Kirkland
+2570,Washington St @ Beacon St,0,399,S32003,Beacon St at Washington / Kirkland
+2546,Washington St @ Beacon St,0,399,S32003,Beacon St at Washington / Kirkland
+2618,Somerville Ave @ Central St,0,400,S32004,Conway Park - Somerville Avenue
+2590,594 Somerville Ave,0,400,S32004,Conway Park - Somerville Avenue
+2591,Somerville Ave opp Central St,0,400,S32004,Conway Park - Somerville Avenue
+2620,Somerville Ave @ Spring St,0,400,S32004,Conway Park - Somerville Avenue
+2588,Elm St opp Porter St,0,401,S32005,Wilson Square
+2589,Somerville Ave @ Sacramento St,0,401,S32005,Wilson Square
+2432,Somerville Ave opp Elm St,0,401,S32005,Wilson Square
+24581,Somerville Ave @ Elm St,0,401,S32005,Wilson Square
+2621,Somerville Ave @ Lowell St,0,401,S32005,Wilson Square
+2622,Elm St @ Porter St,0,401,S32005,Wilson Square
+5015,College Ave @ Highland Ave,0,402,S32006,Davis Square
+2581,Holland St @ Dover St,0,402,S32006,Davis Square
+2582,Elm St @ Chester St,0,402,S32006,Davis Square
+5104,Davis,0,402,S32006,Davis Square
+70063,Davis,0,402,S32006,Davis Square
+door-davis-busway,"Davis - College Ave, Tufts University, Buses",2,402,S32006,Davis Square
+door-davis-holland,"Davis - Holland St, Buses",2,402,S32006,Davis Square
+door-balsq-boston,Ball Square - Boston Ave,2,403,S32007,Ball Sq
+2697,Broadway @ Josephine Ave - Ball Sq,0,403,S32007,Ball Sq
+2736,Broadway @ Boston Ave - Ball Sq,0,403,S32007,Ball Sq
+door-balsq-broadway,Ball Square - Broadway,2,403,S32007,Ball Sq
+5012,College Ave @ Broadway,0,404,S32008,Powder House Circle - Nathan Tufts Park
+5021,College Ave @ Broadway - Powder House Sq,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2405,College Ave @ Warner St,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2693,Broadway @ Billingham St,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2695,Broadway opp Warner St - Powder House Sq,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2696,Broadway @ Bay State Ave,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2381,College Ave @ Powder House Sq,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2738,Broadway @ Warner St - Powder House Sq,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2740,Broadway @ Walker St,0,404,S32008,Powder House Circle - Nathan Tufts Park
+2636,Broadway @ North St,0,406,S32010,Clarendon Hill at Broadway
+2637,Clarendon Hill Busway,0,406,S32010,Clarendon Hill at Broadway
+2715,Broadway @ Belknap St,0,406,S32010,Clarendon Hill at Broadway
+12636,Broadway opp Clarendon Hill Busway,0,406,S32010,Clarendon Hill at Broadway
+2575,Broadway @ Garrison Ave,0,406,S32010,Clarendon Hill at Broadway
+2631,Holland St @ Simpson Ave,0,407,S32011,Teele Square
+2632,Holland St opp Cameron Ave,0,407,S32011,Teele Square
+2691,Broadway opp Packard Ave,0,407,S32011,Teele Square
+2579,Holland St @ Cameron Ave,0,407,S32011,Teele Square
+2580,Holland St @ Jay St,0,407,S32011,Teele Square
+2743,Broadway @ Packard Ave,0,407,S32011,Teele Square
+12699,Medford St @ Broadway - Magoun Sq,0,408,S32013,Magoun Square at Trum Field
+2404,Medford St @ Broadway - Magoun Sq,0,408,S32013,Magoun Square at Trum Field
+2733,Broadway @ Medford St - Magoun Sq,0,408,S32013,Magoun Square at Trum Field
+2734,Broadway @ William St,0,408,S32013,Magoun Square at Trum Field
+2735,Broadway @ Alfred St,0,408,S32013,Magoun Square at Trum Field
+2698,Broadway @ Cedar St,0,408,S32013,Magoun Square at Trum Field
+2699,Broadway @ Hinckley St - Magoun Sq,0,408,S32013,Magoun Square at Trum Field
+2700,Broadway @ Medford St - Magoun Sq,0,408,S32013,Magoun Square at Trum Field
+2713,Broadway @ Lincoln St,0,409,S32014,Broadway St at Mt Pleasant St
+2714,Broadway @ Mt Vernon St,0,409,S32014,Broadway St at Mt Pleasant St
+2718,Broadway @ Austin St,0,409,S32014,Broadway St at Mt Pleasant St
+2723,Broadway @ Fellsway W,0,410,S32015,Foss Park
+2707,Broadway @ Montgomery Ave,0,410,S32015,Foss Park
+2703,Broadway opp Main St,0,411,S32016,Broadway at Central St
+5302,Main St opp Moreland St,0,411,S32016,Broadway at Central St
+5303,Main St @ Broadway,0,411,S32016,Broadway at Central St
+2729,Broadway @ Main St,0,411,S32016,Broadway at Central St
+2731,Broadway opp Glenwood Rd,0,411,S32016,Broadway at Central St
+2702,Broadway @ Bartlett St,0,411,S32016,Broadway at Central St
+2711,Broadway @ Glen St,0,412,S32017,East Somerville Library (Broadway and Illinois)
+2712,Broadway @ Franklin St,0,412,S32017,East Somerville Library (Broadway and Illinois)
+2718,Broadway @ Austin St,0,412,S32017,East Somerville Library (Broadway and Illinois)
+2719,Broadway @ Indiana Ave,0,412,S32017,East Somerville Library (Broadway and Illinois)
+2720,Broadway @ Michigan Ave,0,412,S32017,East Somerville Library (Broadway and Illinois)
+70278,Assembly,0,413,S32018,Assembly Square T
+70279,Assembly,0,413,S32018,Assembly Square T
+door-astao-foley,Assembly - Foley St,2,413,S32018,Assembly Square T
+door-astao-revol,Assembly - Revolution Dr,2,413,S32018,Assembly Square T
+2674,Highland Ave @ Cutter Ave,0,414,S32019,Grove St at Community Path
+2628,Grove St @ Highland Ave,0,414,S32019,Grove St at Community Path
+5015,College Ave @ Highland Ave,0,414,S32019,Grove St at Community Path
+5104,Davis,0,414,S32019,Grove St at Community Path
+70063,Davis,0,414,S32019,Grove St at Community Path
+door-davis-busway,"Davis - College Ave, Tufts University, Buses",2,414,S32019,Grove St at Community Path
+2678,Highland Ave @ Conwell St,0,415,S32052,Somerville Hospital
+2679,Highland Ave @ Tower St,0,415,S32052,Somerville Hospital
+2680,Highland Ave @ Lowell St,0,415,S32052,Somerville Hospital
+2668,Highland Ave @ Lowell St,0,415,S32052,Somerville Hospital
+2669,235 Highland Ave,0,415,S32052,Somerville Hospital
+2670,263 Highland Ave,0,415,S32052,Somerville Hospital
+2776,Washington St @ New Washington St,0,416,S32021,Washington St at Myrtle St
+2761,Washington St @ Tufts St,0,416,S32021,Washington St at Myrtle St
+2671,Highland Ave @ Cedar St,0,417,S32022,Community Path at Cedar Street
+2617,Somerville Ave @ Loring St,0,418,S32023,30 Dane St
+2593,Somerville Ave opp Loring St,0,418,S32023,30 Dane St
+2571,Washington St @ Calvin St,0,419,S32034,Perry Park
+2545,Washington St @ Dane St,0,419,S32034,Perry Park
+2457,Beacon St @ Park St,0,420,S32035,191 Beacon St
+2433,Park St @ Beacon St,0,420,S32035,191 Beacon St
+2745,Cross St @ Pearl St,0,423,S32038,Edgerly Education Center
+2746,Cross St @ Ellsworth St,0,423,S32038,Edgerly Education Center
+2747,Cross St @ Broadway,0,423,S32038,Edgerly Education Center
+2748,Cross St @ Broadway,0,423,S32038,Edgerly Education Center
+2749,Cross St @ Otis St,0,423,S32038,Edgerly Education Center
+2394,Pearl St @ Cross St,0,423,S32038,Edgerly Education Center
+2750,Cross St @ Pearl St,0,423,S32038,Edgerly Education Center
+2710,Broadway @ Cross St,0,423,S32038,Edgerly Education Center
+2721,Broadway @ Cross St,0,423,S32038,Edgerly Education Center
+2625,Elm St @ Hancock St,0,424,S32039,Elm St at White St
+2587,Elm St @ Mossland St,0,424,S32039,Elm St at White St
+2623,Elm St @ Cedar St,0,424,S32039,Elm St at White St
+2586,Elm St @ Porter Sq Shopping Ctr,0,424,S32039,Elm St at White St
+door-mgngl-lowell,Magoun Square - Lowell St,2,425,S32040,Community Path at Lowell St
+2761,Washington St @ Tufts St,0,426,S32041,Union Square East
+2762,Washington St @ McGrath Hwy,0,426,S32041,Union Square East
+2763,Washington St @ Boston St,0,426,S32041,Union Square East
+2773,Washington St @ Merriam St,0,426,S32041,Union Square East
+2659,McGrath Hwy @ Alston St,0,426,S32041,Union Square East
+2774,Washington St @ Medford St,0,426,S32041,Union Square East
+2690,Medford St @ Washington St,0,426,S32041,Union Square East
+2610,Washington St @ Washington Terr,0,426,S32041,Union Square East
+28746,Grand Union Blvd opp Artisan Way,0,427,S32047,Foley St at Grand Union Blvd
+28742,Grand Union Blvd @ Foley St,0,427,S32047,Foley St at Grand Union Blvd
+28743,Grand Union Blvd @ Foley St,0,427,S32047,Foley St at Grand Union Blvd
+28745,Grand Union Blvd @ Canal St,0,427,S32047,Foley St at Grand Union Blvd
+2686,Highland Ave @ Vinal Ave,0,428,S32048,Somerville High School & Central Library
+2661,Highland Ave @ Walnut St,0,428,S32048,Somerville High School & Central Library
+2662,75 Highland Ave opp Putnam St,0,428,S32048,Somerville High School & Central Library
+2687,Highland Ave @ Walnut St,0,428,S32048,Somerville High School & Central Library
+2607,McGrath Hwy @ Poplar St,0,430,S32053,Chestnut St at Poplar St
+12530,Prospect St @ Webster Ave,0,431,S32054,Union Square Station
+2528,Webster Ave @ Prospect St,0,431,S32054,Union Square Station
+2531,Prospect St @ Bennett Ct,0,431,S32054,Union Square Station
+70503,Union Square,0,431,S32054,Union Square Station
+70504,Union Square,0,431,S32054,Union Square Station
+door-unsqu-allen,Union Square - Allen St,2,431,S32054,Union Square Station
+door-unsqu-elevator,Union Square - Prospect St,2,431,S32054,Union Square Station
+2060,Mt Auburn St @ Bigelow Ave,0,432,W32001,Coolidge Sq.
+2061,Mt Auburn St opp Keenan St,0,432,W32001,Coolidge Sq.
+2033,Mt Auburn St @ Keenan St,0,432,W32001,Coolidge Sq.
+2034,Mt Auburn St @ Kimball Rd,0,432,W32001,Coolidge Sq.
+8815,Main St @ Merchants Row,0,433,W32002,Watertown Sq
+2046,Mt Auburn St @ Main St,0,433,W32002,Watertown Sq
+2048,Mt Auburn St @ Main St,0,433,W32002,Watertown Sq
+8297,Main St @ Cross St,0,433,W32002,Watertown Sq
+900,Watertown Yard,0,433,W32002,Watertown Sq
+8178,Watertown Sq Terminal,0,433,W32002,Watertown Sq
+1445,Arsenal St @ Watertown + Arsenal Mall,0,434,W32004,Arsenal Yards
+1438,500 Arsenal St - Watertown + Arsenal Mall,0,434,W32004,Arsenal Yards
+1441,Arsenal St opp Elm St,0,434,W32004,Arsenal Yards
+1444,Arsenal St @ Elm St,0,434,W32004,Arsenal Yards
+8296,Main St @ Chestnut St,0,435,W32005,Watertown Town Hall
+8816,Main St @ Thaxter St,0,435,W32005,Watertown Town Hall
+88171,Main St opp Green St,0,435,W32005,Watertown Town Hall
+8297,Main St @ Cross St,0,435,W32005,Watertown Town Hall
+1434,Arsenal St @ Beechwood Ave,0,436,W32006,160 Arsenal
+1433,Arsenal St @ Beacon Pk,0,436,W32006,160 Arsenal
+1450,Arsenal St opp Beechwood Ave,0,436,W32006,160 Arsenal
+1451,Arsenal St opp Beacon Pk,0,436,W32006,160 Arsenal
+door-lech-obrien,Lechmere - O'Brien Hwy,2,438,M32092,Elevate at One Leighton
+70130,Harvard Avenue,0,439,A32017,Commonwealth Ave at Griggs St
+70131,Harvard Avenue,0,439,A32017,Commonwealth Ave at Griggs St
+1378,Harvard Ave @ Commonwealth Ave,0,439,A32017,Commonwealth Ave at Griggs St
+1302,Harvard Ave @ Commonwealth Ave,0,439,A32017,Commonwealth Ave at Griggs St
+70128,Griggs Street,0,439,A32017,Commonwealth Ave at Griggs St
+70129,Griggs Street,0,439,A32017,Commonwealth Ave at Griggs St
+1092,Chestnut Hill Ave @ Beacon St,0,440,B32035,Cleveland Circle
+70237,Cleveland Circle,0,440,B32035,Cleveland Circle
+70238,Cleveland Circle,0,440,B32035,Cleveland Circle
+1027,Chestnut Hill Ave @ Englewood Ave,0,440,B32035,Cleveland Circle
+1523,Brookline Ave @ Francis St,0,441,A32056,Riverway at Brookline Ave
+1558,Brookline Ave @ Francis St,0,441,A32056,Riverway at Brookline Ave
+1559,Brookline Ave @ Deaconess Rd,0,441,A32056,Riverway at Brookline Ave
+962,Brighton Ave @ Linden St,0,442,D32058,Brighton Ave at Linden St
+928,Brighton Ave @ Harvard Ave,0,442,D32058,Brighton Ave at Linden St
+236,Atlantic Ave @ Central St,0,443,A32047,Broad St at Central St
+door-aqucl-mcknorth,Aquarium - State St (North),2,443,A32047,Broad St at Central St
+door-aqucl-mcksouth,Aquarium - State St (South),2,443,A32047,Broad St at Central St
+5095,Washington St @ E Berkeley St,0,444,C32067,Washington St at Peters Park
+5098,Washington St @ E Berkeley St,0,444,C32067,Washington St at Peters Park
+36541,E Berkeley St @ Washington St,0,444,C32067,Washington St at Peters Park
+70067,Harvard,0,445,M32017,Harvard Square at Brattle St / Eliot St
+door-harsq-brattle,Harvard - Brattle Square,2,445,M32017,Harvard Square at Brattle St / Eliot St
+32549,Eliot St @ Bennett St,0,445,M32017,Harvard Square at Brattle St / Eliot St
+door-harsq-square,Harvard - Harvard Square,2,445,M32017,Harvard Square at Brattle St / Eliot St
+door-harsq-church,"Harvard - Church St, Harvard Square",2,445,M32017,Harvard Square at Brattle St / Eliot St
+2565,16 Eliot St,0,445,M32017,Harvard Square at Brattle St / Eliot St
+2020,Mt Auburn St @ Story St,0,445,M32017,Harvard Square at Brattle St / Eliot St
+2074,Mt Auburn St @ University Rd,0,445,M32017,Harvard Square at Brattle St / Eliot St
+2098,Aberdeen Ave @ Mt Auburn St,0,446,M32054,699 Mt Auburn St
+2030,Mt Auburn St @ Homer Ave,0,446,M32054,699 Mt Auburn St
+2064,Mt Auburn St opp Homer Ave,0,446,M32054,699 Mt Auburn St
+48304,Fellsway W @ Park St,0,448,F32009,Hickey Park
+8304,Fellsway W @ Fulton St,0,448,F32009,Hickey Park
+8305,Fellsway W @ Paris St,0,448,F32009,Hickey Park
+8313,Fellsway W @ Fern Rd,0,448,F32009,Hickey Park
+890,Summer St @ WTC Ave,0,450,D32018,Boston Convention and Exhibition Center - Summer St at West Side Dr
+889,Summer St opp WTC Ave,0,450,D32018,Boston Convention and Exhibition Center - Summer St at West Side Dr
+988,Centre St @ Jefferson St,0,451,N32003,Bacon St at Washington St
+903,Washington St @ Bacon St,0,451,N32003,Bacon St at Washington St
+1900,Centre St @ Pearl St,0,451,N32003,Bacon St at Washington St
+37150,Salem,0,452,T32005,Salem MBTA - Washington at Federal St
+4563,Washington St @ Church St,0,452,T32005,Salem MBTA - Washington at Federal St
+785,Centre St @ Willow St,0,454,C32085,Centre St at W. Roxbury Post Office
+NB-0076-S,Highland,0,454,C32085,Centre St at W. Roxbury Post Office
+806,Centre St @ Willow St,0,454,C32085,Centre St at W. Roxbury Post Office
+1732,Blue Hill Ave @ Woodrow Ave,0,455,C32092,Blue Hill Ave at Havelock St
+1733,Blue Hill Ave @ Arbutus St,0,455,C32092,Blue Hill Ave at Havelock St
+1710,Blue Hill Ave @ Johnston Rd,0,455,C32092,Blue Hill Ave at Havelock St
+door-knncl-sbsecond,"Kendall/MIT - Main St, Third St",2,457,M32003,One Broadway / Kendall Sq at Main St / 3rd St
+door-knncl-nbsecond,"Kendall/MIT - Main St, Third St",2,457,M32003,One Broadway / Kendall Sq at Main St / 3rd St
+door-alfcl-busway,"Alewife - Garage, Buses",2,458,M32046,Alewife MBTA at Steel Place
+door-alfcl-cambridgepark,"Alewife - Cambridgepark Dr, Alewife Brook Pkwy",2,458,M32046,Alewife MBTA at Steel Place
+door-alfcl-pathbusway,"Alewife - Buses, Alewife Path",2,458,M32046,Alewife MBTA at Steel Place
+door-alfcl-steel,"Alewife - Steel Place, Alewife Brook Reserve",2,458,M32046,Alewife MBTA at Steel Place
+141,Alewife,0,458,M32046,Alewife MBTA at Steel Place
+9070061,Alewife,0,458,M32046,Alewife MBTA at Steel Place
+15787,Beach St @ Cary Ave,0,459,R32007,Revere Public Library
+5788,Beach St @ School St,0,459,R32007,Revere Public Library
+5790,49 Central Ave,0,459,R32007,Revere Public Library
+5792,Beach St @ Eustis St,0,459,R32007,Revere Public Library
+1724,Blue Hill Ave opp Woodhaven St,0,460,C32044,Blue Hill Ave at Almont St
+1725,1458 Blue Hill Ave opp Almont St,0,460,C32044,Blue Hill Ave at Almont St
+1717,Blue Hill Ave @ Almont St,0,460,C32044,Blue Hill Ave at Almont St
+1718,Blue Hill Ave @ Woodhaven St,0,460,C32044,Blue Hill Ave at Almont St
+524,Morton St @ Harvard St,0,461,C32094,2 Hummingbird Lane at Olmsted Green
+9406,Morton St @ Harvard St,0,461,C32094,2 Hummingbird Lane at Olmsted Green
+70211,Saint Mary's Street,0,462,K32007,St Mary's
+door-north-crcanal,"North Station - Causeway St, Canal St",2,463,A32025,Nashua Street at Red Auerbach Way
+door-north-crnashua,"North Station - Causeway St (West), Nashua St",2,463,A32025,Nashua Street at Red Auerbach Way
+5736,Meridian St @ Liverpool St,0,464,A32036,Boston East - 126 Border St
+5737,Meridian St @ Havre St,0,464,A32036,Boston East - 126 Border St
+5742,Meridian St @ Havre St,0,464,A32036,Boston East - 126 Border St
+214,Seaport Blvd @ Pier 4 Blvd,0,465,B32007,Seaport Square - Seaport Blvd at Northern Ave
+74612,Courthouse,0,465,B32007,Seaport Square - Seaport Blvd at Northern Ave
+door-crtst-south,"Courthouse - Thomson Pl, Seaport Blvd",2,465,B32007,Seaport Square - Seaport Blvd at Northern Ave
+25202,Preble St @ Vinton St,0,466,C32052,Columbia Rd at Tierney Community Center
+25800,E 8th St @ Mercer St,0,466,C32052,Columbia Rd at Tierney Community Center
+285,E 8th St @ Mercer St,0,466,C32052,Columbia Rd at Tierney Community Center
+5201,Preble St @ Old Colony Ave,0,466,C32052,Columbia Rd at Tierney Community Center
+12853,Thirteenth St @ Second Ave,0,467,D32023,Spaulding Rehabilitation Hospital - Charlestown Navy Yard
+13121,Dewar St @ Dorchester Ave,0,468,C32113,Hancock St at Pleasant St
+1474,Bowdoin St @ Winter St,0,468,C32113,Hancock St at Pleasant St
+1475,Hancock St @ Bowdoin St,0,468,C32113,Hancock St at Pleasant St
+1508,Hancock St @ Bowdoin St,0,468,C32113,Hancock St at Pleasant St
+317,Dorchester Ave @ Hancock St,0,468,C32113,Hancock St at Pleasant St
+350,Dorchester Ave @ Dewar St,0,468,C32113,Hancock St at Pleasant St
+1771,Granite St @ Pearl St,0,469,M32022,Lower Cambridgeport at Magazine St / Riverside Rd
+21772,Amesbury St @ Vassar St,0,471,M32042,MIT Vassar St
+5554,Elm St @ Glendale Pk,0,473,V32006,Glendale Square (Ferry St at Broadway)
+5343,Ferry St @ Irving St,0,474,G32003,Malden High School
+5444,Salem St @ Tremont St,0,474,G32003,Malden High School
+5457,Salem St opp Sprague St,0,474,G32003,Malden High School
+4562,Washington St @ New Derby St,0,475,T32004,Mayor Salvo Path at Mill St
+6103,New Derby St opp Klop Alley,0,475,T32004,Mayor Salvo Path at Mill St
+6180,Lafayette St @ Harbor St,0,475,T32004,Mayor Salvo Path at Mill St
+6181,New Derby St @ Klopp Alley,0,475,T32004,Mayor Salvo Path at Mill St
+2661,Highland Ave @ Walnut St,0,476,S32046,Gilman Square T at Medford St
+2687,Highland Ave @ Walnut St,0,476,S32046,Gilman Square T at Medford St
+2524,Hampshire St @ Columbia St,0,477,M32052,Cambridge Dept. of Public Works -147 Hampshire St.
+45406,Main St @ Winthrop St,0,478,V32013,Kearins Playground
+5402,Main St @ Parlin St,0,478,V32013,Kearins Playground
+5403,Main St @ Tileston St,0,478,V32013,Kearins Playground
+5406,Main St @ Oakes St,0,478,V32013,Kearins Playground
+128,Massachusetts Ave opp Magazine St,0,479,C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square
+30009,Massachusetts Ave @ Magazine St,0,479,C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square
+DB-2265,Newmarket,0,479,C32022,Newmarket Square T Stop - Massachusetts Ave at Newmarket Square
+6474,Hyde Park Ave @ American Legion Hwy,0,480,C32101,American Legion Hwy at Hyde Park Ave
+70106,Boston College,0,484,N32009,Boston College T
+70107,Boston College,0,484,N32009,Boston College T
+2362,Medford St @ Massachusetts Ave,0,4,L32006,Mass Ave at Broadway
+70008,Roxbury Crossing,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+383,Blue Hill Ave @ Ellington St,0,91,C32030,Franklin Park Zoo - Franklin Park Rd at Blue Hill Ave
+70089,Fields Corner,0,100,C32041,Fields Corner T Stop
+70012,Massachusetts Avenue,0,116,C32063,Mass Ave T Station
+70013,Massachusetts Avenue,0,116,C32063,Mass Ave T Station
+1376,Harvard St opp Verndale St,0,157,D32035,Harvard Ave at Brainerd Rd
+4134,Central Ave @ Central Ave Station,0,213,C32088,Central Ave at River St
+70269,Central Avenue,0,213,C32088,Central Ave at River St
+70270,Central Avenue,0,213,C32088,Central Ave at River St
+door-cenav-ashmont,Central Avenue - Central Ave (South),2,213,C32088,Central Ave at River St
+door-cenav-mattapan,"Central Avenue - Central Ave (North), Neponset Trail",2,213,C32088,Central Ave at River St
+DB-2258,Uphams Corner,0,230,B32025,Uphams Corner T Stop - Magnolia St at Dudley St
+DB-2230,Morton Street,0,233,C23045,Morton St T
+2076,Harvard,0,271,M32018,Harvard Square at Mass Ave/ Dunster
+door-alfcl-alewife,Alewife - Alewife Path,2,283,M32033,Alewife Station at Russell Field
+2076,Harvard,0,330,M32087,Church St
+5072,Malden Center,0,354,G32001,Malden Center T Station
+70509,Ball Square,0,403,S32007,Ball Sq
+70510,Ball Square,0,403,S32007,Ball Sq
+21917,Reservoir,0,440,B32035,Cleveland Circle
+door-rsmnl-wramp,Reservoir - Cleveland Circle (Ramp),2,440,B32035,Cleveland Circle
+door-alfcl-alewife,Alewife - Alewife Path,2,458,M32046,Alewife MBTA at Steel Place
+70212,Saint Mary's Street,0,462,K32007,St Mary's
+2389,Pearl St @ Skilton Ave,0,476,S32046,Gilman Square T at Medford St
+6500,Hyde Park Ave opp American Legion Hwy,0,480,C32101,American Legion Hwy at Hyde Park Ave
+ER-0168-S,Salem,0,481,T32012,Salem MBTA - Lower Level
+1807,Park Dr @ Fenway Station,0,12,A32008,Park Dr at Buswell St
+door-fenwy-longwood,"Fenway - Fenway Park, Park Dr, Longwood",2,12,A32008,Park Dr at Buswell St
+2554,N Harvard St @ Franklin St,0,28,A32040,Honan Library
+70010,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+70011,Ruggles,0,38,B32002,Ruggles T Stop - Columbus Ave at Melnea Cass Blvd
+70008,Roxbury Crossing,0,71,C32001,Roxbury Crossing T Stop - Columbus Ave at Tremont St
+32501,Park St Busway @ Dorchester Ave,0,100,C32041,Fields Corner T Stop
+70089,Fields Corner,0,100,C32041,Fields Corner T Stop
+185,Mattapan,0,102,C32045,Mattapan T Stop
+70094,Ashmont,0,115,C32062,Ashmont T Stop
+140,Mt Vernon St @ Paul A. Dever School,0,124,C32090,Geiger Gibson Community Health Center
+70156,Arlington,0,141,D32013,Boylston St at Berkeley St
+door-armnl-arlte,Arlington - Arlington St (East),2,141,D32013,Boylston St at Berkeley St
+550,Geneva Ave @ Four Corners/Geneva Station,0,197,C32111,Four Corners/Geneva T Stop
+4134,Central Ave @ Central Ave Station,0,213,C32088,Central Ave at River St
+door-cenav-mattapan,"Central Avenue - Central Ave (North), Neponset Trail",2,213,C32088,Central Ave at River St
+5251,1467 Centre St opp Hewlett St,0,216,C32096,Knoll St at Centre St
+BNT-0000-07,North Station,0,246,A32046,Canal St at Causeway St
+70224,Summit Avenue,0,247,K32001,Coolidge Corner - Beacon St at Centre St
+2076,Harvard,0,271,M32018,Harvard Square at Mass Ave/ Dunster
+2076,Harvard,0,330,M32087,Church St
+ER-0042-02,Chelsea,0,341,H32005,Chelsea Station
+5297,Main St @ Marion St,0,359,F32003,Tufts Sq - Main St at Medford St
+8168,Walnut St @ Page Rd,0,375,N32014,Washington St at Walnut St
+9070058,Revere Beach - Beach St @ Kimball Ave,0,380,R32002,Orr Sq (Shirley Ave)
+2436,Beacon St @ Smith Ave,0,399,S32003,Beacon St at Washington / Kirkland
+5305,Main St @ Moreland St,0,411,S32016,Broadway at Central St
+2076,Harvard,0,445,M32017,Harvard Square at Brattle St / Eliot St
+349,Dorchester Ave @ Hoyt St,0,468,C32113,Hancock St at Pleasant St
+5570,Elm St opp Glendale Pk,0,473,V32006,Glendale Square (Ferry St at Broadway)
